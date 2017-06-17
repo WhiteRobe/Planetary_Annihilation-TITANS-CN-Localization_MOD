@@ -1,0 +1,23 @@
+{
+    "Advanced Energy Plants generate 8x more energy": {
+        "message": "\u9ad8\u7ea7\u53d1\u7535\u7ad9\u53ef\u4ee5\u63d0\u4f9b\u0038\u500d\u7684\u80fd\u6e90"
+    }, 
+    "Build Energy Plants to generate energy": {
+        "message": "\u5efa\u9020\u53d1\u7535\u7ad9\u6765\u4ea7\u751f\u80fd\u6e90"
+    }, 
+    "Energy Resource": {
+        "message": "\u80fd\u6e90\u8d44\u6e90"
+    }, 
+    "Energy is required for building units, structures and some functionality": {
+        "message": "\u80fd\u6e90\u7528\u4e8e\u5236\u9020\u5355\u4f4d\u3001\u5efa\u7b51\u4ee5\u53ca\u67d0\u4e9b\u7279\u6b8a\u529f\u80fd"
+    }, 
+    "PA Guide: Energy": {
+        "message": "\u6559\u7a0b:\u80fd\u6e90\u8d44\u6e90"
+    }, 
+    "Select Fabber, select [style=text_callout]Build Energy Plant Icon[/style].": {
+        "message": "\u9009\u62e9\u5de5\u7a0b\u5355\u4f4d\uff0c\u9009\u62e9 [style=text_callout]\u53d1\u7535\u7ad9\u56fe\u6807[/style]."
+    }, 
+    "[style=text_callout]Left Click + drag[/style] in the world to build multiple Energy Plants.": {
+        "message": "[style=text_callout]\u5de6\u952e\u70b9\u51fb\u002b\u62d6\u52a8[/style] \u4ee5\u5728\u4e16\u754c\u5730\u56fe\u4e2d\u5efa\u9020\u591a\u4e2a\u53d1\u7535\u7ad9."
+    }
+}

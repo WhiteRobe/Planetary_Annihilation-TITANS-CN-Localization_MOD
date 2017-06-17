@@ -1,0 +1,302 @@
+{
+    "Accept": {
+        "message": "接受"
+    }, 
+    "Advanced Edit": {
+        "message": "细节编辑"
+    }, 
+    "Advanced edit planet": {
+        "message": "星球细节设定"
+    }, 
+    "Auto": {
+        "message": "自动"
+    }, 
+    "Base:": {
+        "message": "基础:"
+    }, 
+    "Biome:": {
+        "message": "生态类型:"
+    }, 
+    "Brushes:": {
+        "message": "笔刷:"
+    }, 
+    "CLEAR SYSTEM": {
+        "message": "取消全部"
+    }, 
+    "CLOSE": {
+        "message": "退出"
+    }, 
+    "CSG": {
+        "message": "地形"
+    }, 
+    "Cancel": {
+        "message": "取消"
+    }, 
+    "Discard": {
+        "message": "放弃保存"
+    }, 
+    "Do you want to save this system?": {
+        "message": "您想保存这个星系么?"
+    }, 
+    "EDIT PLANET": {
+        "message": "编辑星球"
+    }, 
+    "Edit": {
+        "message": "编辑"
+    }, 
+    "GAMEPLAY": {
+        "message": "游戏性内容"
+    }, 
+    "HIDE": {
+        "message": "隐藏"
+    }, 
+    "Height:": {
+        "message": "大气高度:"
+    }, 
+    "Include:": {
+        "message": "包含:"
+    }, 
+    "Landing Zone Restrictions": {
+        "message": "预定登陆区域"
+    }, 
+    "Landing Zones": {
+        "message": "登陆区域"
+    }, 
+    "MY PLANETS": {
+        "message": "我的星球"
+    }, 
+    "Mass": {
+        "message": "质量"
+    }, 
+    "Max Asteroid Count": {
+        "message": "最大小行星数量"
+    }, 
+    "Max:": {
+        "message": "最大:"
+    }, 
+    "Metal Spots": {
+        "message": "金属采掘点"
+    }, 
+    "Min:": {
+        "message": "最小:"
+    }, 
+    "NONE": {
+        "message": "不对称"
+    }, 
+    "Ok": {
+        "message": "确定"
+    }, 
+    "Once in Advanced Edit mode, the planet will remain in this mode for future edits.": {
+        "message": "进入精细编辑模式后将无法再进行当前星球的基本参数设置."
+    }, 
+    "PREVIEW ALL": {
+        "message": "预览全部"
+    }, 
+    "Position": {
+        "message": "位置"
+    }, 
+    "Preview": {
+        "message": "预览"
+    }, 
+    "Properties": {
+        "message": "性能"
+    }, 
+    "RECENT": {
+        "message": "最近使用过的星球"
+    }, 
+    "REMOVE": {
+        "message": "移除"
+    }, 
+    "REMOVE ASTEROID BELT": {
+        "message": "移除小行星带"
+    }, 
+    "Radius:": {
+        "message": "半径:"
+    }, 
+    "SAVE SYSTEM": {
+        "message": "保存星系"
+    }, 
+    "SHOW": {
+        "message": "展示"
+    }, 
+    "SIMULATE": {
+        "message": "模拟"
+    }, 
+    "STOP": {
+        "message": "暂停"
+    }, 
+    "Save": {
+        "message": "保存"
+    }, 
+    "Save as template": {
+        "message": "保存为模板"
+    }, 
+    "Seed:": {
+        "message": "地图种子:"
+    }, 
+    "Spawn Delay (in seconds)": {
+        "message": "小行星出现时间 (单位为秒)"
+    }, 
+    "Spots:": {
+        "message": "金属采掘点数:"
+    }, 
+    "Starting Asteroid Count": {
+        "message": "开始时存在的小行星数量"
+    }, 
+    "Starting planet options": {
+        "message": "星球登陆点设置"
+    }, 
+    "System Designer": {
+        "message": "星系设计系统"
+    }, 
+    "System Name:": {
+        "message": "星系名称:"
+    }, 
+    "System radius is too large.": {
+        "message": "星系过大."
+    }, 
+    "System radius is too small.": {
+        "message": "星系过小."
+    }, 
+    "System requires at least one starting planet.": {
+        "message": "需要至少一颗起始星球."
+    }, 
+    "TEMPLATES": {
+        "message": "模板"
+    }, 
+    "TERRAIN": {
+        "message": "地貌"
+    }, 
+    "TERRAIN AND CSG": {
+        "message": "地形与地貌"
+    }, 
+    "Temp": {
+        "message": "温度"
+    }, 
+    "Temp:": {
+        "message": "温度:"
+    }, 
+    "The planet is loading. This can take a long time.": {
+        "message": "上帝正在创造星球，这可能会花上上帝几秒钟."
+    }, 
+    "The program will be unresponsive until the planet has finished.": {
+        "message": "系统可能会无响应，直至上帝完成他的工作."
+    }, 
+    "The system has been changed since it was last saved.": {
+        "message": "故有内容已变更...."
+    }, 
+    "The system has not been saved.": {
+        "message": "星系变更没有被保存."
+    }, 
+    "This planet has been customized. It must be fully built before modifying.": {
+        "message": "由于进行了细节编辑，该星球的参数被修改前需要被重建。正在更新信息中......"
+    }, 
+    "Use [style=hotkey_title]__hotkey__[/style] to place a landing zone below the cursor.": {
+        "message": "使用 [style=hotkey_title]__hotkey__[/style] 来设置登录区域."
+    }, 
+    "Use [style=hotkey_title]__hotkey__[/style] to place a metal spot below the cursor.": {
+        "message": "使用 [style=hotkey_title]__hotkey__[/style] 来添加金属采掘点."
+    }, 
+    "Use as a starting planet": {
+        "message": "作为起始星球"
+    }, 
+    "Variance:": {
+        "message": "变化:"
+    }, 
+    "Velocity": {
+        "message": "速度"
+    }, 
+    "Water": {
+        "message": "水"
+    }, 
+    "Water:": {
+        "message": "水:"
+    }, 
+    "X:": {
+        "message": "X:"
+    }, 
+    "Y:": {
+        "message": "Y:"
+    }, 
+    "You will have to fix the system before saving.": {
+        "message": "在返回上一级前，你要保存当前内容么？"
+    }, 
+    "You will not be able to revert back and use standard editing controls.": {
+        "message": "如果放弃保存，当前未保存内容将丢失."
+    }, 
+    "Zone:": {
+        "message": "区域:"
+    }, 
+    "Zones:": {
+        "message": "区域:"
+    }, 
+    "biome": {
+        "message": "生态类型"
+    }, 
+    "edit asteroid belt": {
+        "message": "编辑小行星带"
+    }, 
+    "edit planet": {
+        "message": "编辑星球"
+    }, 
+    "height": {
+        "message": "高度"
+    }, 
+    "height range": {
+        "message": "高度范围"
+    }, 
+    "landing zone size": {
+        "message": "登陆区域半径"
+    }, 
+    "landing zones per army": {
+        "message": "限制单人登陆区"
+    }, 
+    "metal clusters": {
+        "message": "金属采掘点群"
+    }, 
+    "metal density": {
+        "message": "金属采掘点密度"
+    }, 
+    "metal spots": {
+        "message": "采掘点"
+    }, 
+    "metal spots on asteroids": {
+        "message": "小行星上的金属采掘点"
+    }, 
+    "planet name": {
+        "message": "星球名字："
+    }, 
+    "preview landing zones by number of armies": {
+        "message": "预设多人登陆区"
+    }, 
+    "radius": {
+        "message": "半径"
+    }, 
+    "seed": {
+        "message": "地图种子"
+    }, 
+    "start spots": {
+        "message": "起始点"
+    }, 
+    "symmetry type": {
+        "message": "对称性"
+    }, 
+    "temperature": {
+        "message": "温度"
+    }, 
+    "terrain": {
+        "message": "地貌"
+    }, 
+    "terrain and gameplay": {
+        "message": "地貌及游戏性内容"
+    }, 
+    "thrusters required for attack": {
+        "message": "变轨所需推进器数"
+    }, 
+    "water coverage": {
+        "message": "水覆盖面积"
+    }, 
+    "water depth": {
+        "message": "水深"
+    }
+}

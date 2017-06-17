@@ -1,0 +1,26 @@
+{
+    "Important Hotkeys": {
+        "message": "\u91cd\u8981\u70ed\u952e"
+    }, 
+    "PA Guide: Basic Hotkeys": {
+        "message": "\u6559\u7a0b\uff1a\u57fa\u7840\u70ed\u952e"
+    }, 
+    "[style=hotkey_title]__hotkey__[/style] - Select Commander": {
+        "message": "[style=hotkey_title]__hotkey__[/style] - \u9009\u62e9\u6307\u6325\u5b98"
+    }, 
+    "[style=hotkey_title]__hotkey__[/style] - Select all of currently-selected unit(s) that are visible": {
+        "message": "[style=hotkey_title]__hotkey__[/style] - \u9009\u62e9\u5f53\u524d\u6240\u6709\u53ef\u89c6\u5355\u4f4d"
+    }, 
+    "[style=hotkey_title]__hotkey__[/style] - Select idle fabbers on screen": {
+        "message": "[style=hotkey_title]__hotkey__[/style] - \u9009\u62e9\u7a7a\u95f2\u751f\u4ea7\u5355\u4f4d"
+    }, 
+    "[style=hotkey_title]__hotkey__[/style] - Toggle energy orders": {
+        "message": "[style=hotkey_title]__hotkey__[/style] - \u5207\u6362\u8017\u80fd\u6a21\u5f0f"
+    }, 
+    "[style=hotkey_title]__hotkey__[/style] - Toggle production": {
+        "message": "[style=hotkey_title]__hotkey__[/style] - \u5207\u6362\u751f\u4ea7\u6a21\u5f0f"
+    }, 
+    "[style=hotkey_title]__hotkey__[/style] - Zoom to selected unit": {
+        "message": "[style=hotkey_title]__hotkey__[/style] - \u5bf9\u51c6\u9009\u4e2d\u7684\u5355\u4f4d"
+    }
+}

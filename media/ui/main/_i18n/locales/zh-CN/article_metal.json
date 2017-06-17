@@ -1,0 +1,26 @@
+{
+    "Both Basic and Advanced Metal Extractors can be built on top of the same Metal Spot": {
+        "message": "\u91d1\u5c5e\u63d0\u70bc\u5668\u548c\u9ad8\u7ea7\u91d1\u5c5e\u63d0\u70bc\u5668\u90fd\u5fc5\u987b\u5728\u91d1\u5c5e\u91c7\u6398\u70b9\u4e0a\u5efa\u9020"
+    }, 
+    "Build Metal Extractors on Metal Spots": {
+        "message": "\u5728\u91d1\u5c5e\u91c7\u6398\u70b9\u4e0a\u5efa\u9020\u91d1\u5c5e\u63d0\u70bc\u5668"
+    }, 
+    "Build Metal Storage to expand resource capacity": {
+        "message": "\u5efa\u9020\u91d1\u5c5e\u4ed3\u5e93\u6765\u589e\u52a0\u50a8\u5b58\u4e0a\u9650"
+    }, 
+    "Metal Resource": {
+        "message": "金属资源"
+    }, 
+    "Metal is required for building units and structures": {
+        "message": "\u5efa\u9020\u5355\u4f4d\u6216\u5efa\u7b51\u7269\u7684\u65f6\u5019\u6d88\u8017\u91d1\u5c5e"
+    }, 
+    "PA Guide: Metal": {
+        "message": "PA:金属资源"
+    }, 
+    "Select Fabber, select [style=text_callout]Build Metal Extractor Icon[/style].": {
+        "message": "\u9009\u62e9\u5de5\u7a0b\u5355\u4f4d, \u9009\u62e9 [style=text_callout]\u91d1\u5c5e\u63d0\u70bc\u5668\u56fe\u6807[/style]."
+    }, 
+    "[style=text_callout]Left Click + drag[/style] in the world to build over multiple Metal Spots.": {
+        "message": "[style=text_callout]\u5de6\u952e\u70b9\u51fb + \u62d6\u52a8[/style] \u4ee5\u5728\u6e38\u620f\u4e16\u754c\u4e2d\u5efa\u9020\u591a\u4e2a\u91d1\u5c5e\u63d0\u70bc\u5668."
+    }
+}

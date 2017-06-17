@@ -1,0 +1,53 @@
+{
+    "1v1": {
+        "message": "1v1"
+    }, 
+    "Building planets": {
+        "message": "上帝创世中...."
+    }, 
+    "CONNECTION TO SERVER LOST": {
+        "message": "丢失连接"
+    }, 
+    "Cancel": {
+        "message": "取消"
+    }, 
+    "Chat": {
+        "message": "聊天"
+    }, 
+    "Empty": {
+        "message": "空白"
+    }, 
+    "Leave": {
+        "message": "离开"
+    }, 
+    "Leaving the game will result in a match making timeout penalty.": {
+        "message": "离开游戏将会受到惩罚."
+    }, 
+    "Main Menu": {
+        "message": "主菜单"
+    }, 
+    "Opponent abandoned the game": {
+        "message": "对手放弃游戏"
+    }, 
+    "Ranked Match": {
+        "message": "排位赛"
+    }, 
+    "Requeue": {
+        "message": "重新排队"
+    }, 
+    "Returning to Main Menu": {
+        "message": "返回主菜单"
+    }, 
+    "System": {
+        "message": "星系"
+    }, 
+    "Waiting for opponent to connect": {
+        "message": "等待对手进入战场"
+    }, 
+    "Warning": {
+        "message": "核能预警"
+    }, 
+    "Your opponent abandoned the game and has received a time penalty.": {
+        "message": "您的对手放弃了比赛，因此已经收到了惩罚."
+    }
+}

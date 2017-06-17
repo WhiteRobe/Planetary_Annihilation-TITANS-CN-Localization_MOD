@@ -1,0 +1,194 @@
+{
+    "Additional Engineering by": {
+        "message": "\u5f15\u64ce"
+    }, 
+    "Additional Orchestration": {
+        "message": "\u9644\u52a0\u4e1a\u52a1"
+    }, 
+    "Additional conducting by": {
+        "message": "\u4ea7\u54c1\u7ecf\u7406"
+    }, 
+    "Additional percussion by": {
+        "message": "\u6253\u51fb\u4e50"
+    }, 
+    "Album Artwork and layout by": {
+        "message": "\u827a\u672f\u54c1\u8bbe\u8ba1"
+    }, 
+    "Art Director": {
+        "message": "\u7f8e\u672f\u5bfc\u6f14"
+    }, 
+    "Art Director (Uber)": {
+        "message": "\u7f8e\u672f\u5bfc\u6f14 （Uber）"
+    }, 
+    "Artist": {
+        "message": "\u7f8e\u672f"
+    }, 
+    "Assistant engineer": {
+        "message": "\u7a0b\u5e8f\u5458"
+    }, 
+    "Associate Producer": {
+        "message": "\u7a0b\u5e8f\u5458"
+    }, 
+    "Audio Director": {
+        "message": "\u97f3\u4e50\u5bfc\u6f14"
+    }, 
+    "Audio Editor": {
+        "message": "\u97f3\u4e50\u526a\u8f91"
+    }, 
+    "Big thanks to all our backers!": {
+        "message": "\u611f\u8c22\u60a8\u7684\u4f7f\u7528\uff0c\u8fd9\u662f\u76ae\u5361\u6c49\u5316\u0076\u0031\u002e\u0030"
+    }, 
+    "CEO": {
+        "message": "CEO"
+    }, 
+    "CTO": {
+        "message": "CTO"
+    }, 
+    "Choir Master": {
+        "message": "\u5408\u5531\u5927\u5e08"
+    }, 
+    "Co-principal trumpets": {
+        "message": "\u5408\u4f5c\u8005"
+    }, 
+    "Commanders": {
+        "message": "\u6307\u6325\u5b98"
+    }, 
+    "Community Management": {
+        "message": "\u793e\u533a\u7ecf\u7406"
+    }, 
+    "Concertmaster": {
+        "message": "\u9996\u5e2d\u5c0f\u63d0\u7434\u624b"
+    }, 
+    "Conductor": {
+        "message": "\u5236\u4f5c\u5546"
+    }, 
+    "Contractor": {
+        "message": "\u53d1\u884c\u5546"
+    }, 
+    "Cosmic Edition": {
+        "message": "\u5b87\u5b99\u7248\u672c"
+    }, 
+    "Created by": {
+        "message": "\u5236\u4f5c\uff1a"
+    }, 
+    "Design Director": {
+        "message": "\u603b\u5bfc\u6f14"
+    }, 
+    "Designer": {
+        "message": "\u8bbe\u8ba1\u8005"
+    }, 
+    "Engineer": {
+        "message": "\u5de5\u7a0b\u5e08"
+    }, 
+    "Engineers": {
+        "message": "\u5de5\u7a0b\u5e08"
+    }, 
+    "English horn": {
+        "message": "\u82f1\u6587\u6587\u672c"
+    }, 
+    "Executive Assistant": {
+        "message": "\u884c\u653f\u52a9\u7406"
+    }, 
+    "Executive Producer": {
+        "message": "\u6267\u884c\u5236\u7247\u4eba"
+    }, 
+    "Founding Commanders": {
+        "message": "\u521b\u59cb\u6307\u6325\u5b98"
+    }, 
+    "Founding Commanders 1": {
+        "message": "\u521b\u59cb\u6307\u6325\u5b98 1"
+    }, 
+    "Founding Commanders 2": {
+        "message": "\u521b\u59cb\u6307\u6325\u5b98 2"
+    }, 
+    "Group 1": {
+        "message": "\u7b2c\u4e00\u7ec4"
+    }, 
+    "Group 2": {
+        "message": "\u7b2c\u4e8c\u7ec4"
+    }, 
+    "Human Resources": {
+        "message": "\u5c0f\u5e7f\u544a\u003a\u4eba\u7c7b\u8d44\u6e90"
+    }, 
+    "In Memoriam": {
+        "message": "\u60bc\u5ff5"
+    }, 
+    "In loving memory of": {
+        "message": "\u7eaa\u5ff5"
+    }, 
+    "Lead Engineer": {
+        "message": "\u9996\u5e2d\u7a0b\u5e8f\u5458"
+    }, 
+    "Lyrics by": {
+        "message": "\u6b4c\u8bcd\u4f5c\u8005"
+    }, 
+    "Mastering by __name__ at __company__": {
+        "message": "\u7531  __name__ \u6765\u81ea __company__\u5e26\u6765"
+    }, 
+    "Mixing by": {
+        "message": "\u6df7\u97f3"
+    }, 
+    "Music Composed by": {
+        "message": "\u97f3\u4e50\u521b\u4f5c"
+    }, 
+    "Music Preparation:": {
+        "message": "\u524d\u671f\u97f3\u4e50:"
+    }, 
+    "Orchestration": {
+        "message": "\u4e1a\u52a1\u6d41\u7a0b"
+    }, 
+    "Percussion": {
+        "message": "\u6253\u51fb\u4e50"
+    }, 
+    "Principal bass": {
+        "message": "\u9996\u5e2d\u8d1d\u65af"
+    }, 
+    "Principal cello": {
+        "message": "\u9996\u5e2d\u5927\u63d0\u7434"
+    }, 
+    "Principal horn": {
+        "message": "\u4e3b\u5531"
+    }, 
+    "Principal trombone": {
+        "message": "\u9996\u5e2d\u957f\u53f7"
+    }, 
+    "Principal viola": {
+        "message": "\u9996\u5e2d\u4e2d\u63d0\u7434"
+    }, 
+    "Producer": {
+        "message": "\u4f5c\u8005"
+    }, 
+    "Production Babies": {
+        "message": "\u81f4\u6211\u7684\u5b69\u5b50"
+    }, 
+    "Recorded by Seattle music Inc. at the Bastyr Chapel Scoring Stage": {
+        "message": "由\u0041\u0074\u0074\u0061\u0063\u006b\u002e\u004f\u006e\u002e\u0050\u0069\u006b\u0061\u7ffb\u8bd1\uff0c\u514d\u8d39\u4f20\u64ad\uff0c\u4e0d\u5141\u8bb8\u4efb\u4f55\u7ec4\u7ec7\u7528\u4e8e\u5546\u4e1a\u884c\u4e3a\u3002\u7279\u522b\u662f\u6e38\u4fa0\u7f51\uff01"
+    }, 
+    "Soundtrack Credits": {
+        "message": "\u97f3\u4e50\u5236\u4f5c\u4eba"
+    }, 
+    "Special Thanks": {
+        "message": "\u7279\u522b\u611f\u8c22"
+    }, 
+    "Stage manager": {
+        "message": "\u5236\u4f5c\u8d1f\u8d23\u4eba"
+    }, 
+    "Support": {
+        "message": "\u5ba2\u670d\u652f\u6301"
+    }, 
+    "Tech Artist": {
+        "message": "\u6280\u672f\u4eba\u5458"
+    }, 
+    "Tuba": {
+        "message": "\u5f53\u7136\u0033\u0044\u004d\u8981\u7528\u5e76\u4e0d\u53cd\u5bf9\uff0c\u6302\u4e0a\u6211\u4eec\u7684\u540d\u5b57\u5c31\u597d"
+    }, 
+    "UI Designer": {
+        "message": "UI \u8bbe\u8ba1\u8005"
+    }, 
+    "World Art": {
+        "message": "\u6e38\u620f\u5236\u4f5c\u4eba\u85cf\u8d77\u4e86\u4e00\u53e5\u8bdd\u3002\u0059\u006f\u0075\u0026\u0023\u0033\u0039\u003b\u006c\u006c\u0020\u0062\u0065\u0020\u006d\u0069\u0073\u0073\u0065\u0064\u002c\u0020\u004d\u006f\u006d\u3002\u7ffb\u8bd1\u8fc7\u7a0b\u4e2d\uff0c\u53ea\u6709\u8fd9\u4e00\u53e5\u8bdd\u6211\u53cd\u590d\u8bfb\u4e86\u597d\u51e0\u904d\u3002\u8fd9\u5c31\u662f\u7a0b\u5e8f\u5458"
+    }, 
+    "You'll be missed, Mom.": {
+        "message": "\u6c49\u5316\u6210\u5458\u003a\u0053\u0074\u0065\u0061\u006d\u0020\u0049\u0044\uff1a\u0041\u0074\u0074\u0061\u0063\u006b\u002e\u004f\u006e\u002e\u0050\u0069\u006b\u0061."
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Absurd": {
+        "message": "\u65e0\u60c5"
+    }, 
+    "Hard": {
+        "message": "\u56f0\u96be"
+    }, 
+    "Idle": {
+        "message": "\u611a\u8822"
+    }, 
+    "Normal": {
+        "message": "\u6b63\u5e38"
+    }, 
+    "Relentless": {
+        "message": "\u6b8b\u66b4"
+    }
+}

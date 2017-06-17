@@ -1,0 +1,821 @@
+{
+    "ALL": {
+        "message": "所有"
+    }, 
+    "ALWAYS": {
+        "message": "总是"
+    }, 
+    "AUTO": {
+        "message": "自动"
+    }, 
+    "Active Product": {
+        "message": "游戏版本切换"
+    }, 
+    "Ambient Occlusion": {
+        "message": "环境遮挡"
+    }, 
+    "Anti-Aliasing": {
+        "message": "抗锯齿"
+    }, 
+    "Audio": {
+        "message": "声音"
+    }, 
+    "Back": {
+        "message": "前一个镜头"
+    }, 
+    "Build Preview Behavior": {
+        "message": "建筑预览"
+    }, 
+    "CUSTOM": {
+        "message": "自定义"
+    }, 
+    "Camera": {
+        "message": "镜头"
+    }, 
+    "Camera Friction": {
+        "message": "镜头平滑"
+    }, 
+    "Cancel": {
+        "message": "取消"
+    }, 
+    "Classic": {
+        "message": "经典版本"
+    }, 
+    "Close": {
+        "message": "版本"
+    }, 
+    "Conflict:": {
+        "message": "按键冲突:"
+    }, 
+    "Display Mode": {
+        "message": "显示模式"
+    }, 
+    "Edge Scroll Options": {
+        "message": "卷轴滚动选项"
+    }, 
+    "FOV": {
+        "message": "视野"
+    }, 
+    "FULLSCREEN": {
+        "message": "全屏"
+    }, 
+    "FXAA": {
+        "message": "多重采样抗锯齿"
+    }, 
+    "Forward": {
+        "message": "下一个镜头"
+    }, 
+    "GAMEPLAY": {
+        "message": "游戏性选项"
+    }, 
+    "GUI Size": {
+        "message": "UI尺寸"
+    }, 
+    "Graphics": {
+        "message": "图像"
+    }, 
+    "HDR": {
+        "message": "高动态范围图像"
+    }, 
+    "HIGH": {
+        "message": "高"
+    }, 
+    "Headlights": {
+        "message": "前景光"
+    }, 
+    "ICON DISPLAY DISTANCE": {
+        "message": "图标显示距离"
+    }, 
+    "Key Pan Speed": {
+        "message": "按键镜头移动速度"
+    }, 
+    "Keyboard": {
+        "message": "键盘"
+    }, 
+    "LOW": {
+        "message": "低"
+    }, 
+    "Language": {
+        "message": "语言"
+    }, 
+    "Local Server": {
+        "message": "本地服务器"
+    }, 
+    "Local server is not available on your configuration.  (64-bit OS required)": {
+        "message": "您的配置无法启动本地服务器.  (需要64位系统)"
+    }, 
+    "Local server is not recommended on your configuration.  (4 CPU cores and 8GB of memory recommended.)": {
+        "message": "您的配置无法启动本地服务器.  (需要四核处理器及8GB以上内存.)"
+    }, 
+    "MEDIUM": {
+        "message": "中等"
+    }, 
+    "Master Volume": {
+        "message": "主音量"
+    }, 
+    "Mouse Pan Speed": {
+        "message": "鼠标移动速度"
+    }, 
+    "Music Volume": {
+        "message": "音乐音量"
+    }, 
+    "NATIVE (100%)": {
+        "message": "正常 (100%)"
+    }, 
+    "NEVER": {
+        "message": "从不"
+    }, 
+    "OFF": {
+        "message": "关"
+    }, 
+    "OFF (MOUSELOCK)": {
+        "message": "关 (鼠标锁定)"
+    }, 
+    "OFF (NO MOUSELOCK)": {
+        "message": "关 (鼠标不锁定)"
+    }, 
+    "ON": {
+        "message": "开"
+    }, 
+    "Orbital Shell": {
+        "message": "轨道层"
+    }, 
+    "Order Preview Behavior": {
+        "message": "命令路线预览"
+    }, 
+    "Pole Lock": {
+        "message": "地极锁定"
+    }, 
+    "Quality Preset": {
+        "message": "图像品质预设"
+    }, 
+    "RANGE DEPENDENT": {
+        "message": "一定范围"
+    }, 
+    "Resolution Scaling": {
+        "message": "缩放分辨率品质"
+    }, 
+    "Restore All Defaults": {
+        "message": "恢复所有预设"
+    }, 
+    "Restore Tab Defaults": {
+        "message": "恢复当前页预设"
+    }, 
+    "SELECTED": {
+        "message": "选定点"
+    }, 
+    "SERVER": {
+        "message": "服务器"
+    }, 
+    "SHIFT": {
+        "message": "按住SHIFT"
+    }, 
+    "SUBSAMPLE (50%)": {
+        "message": "渣品质 (50%)"
+    }, 
+    "SUBSAMPLE (75%)": {
+        "message": "吃了回扣的品质 (75%)"
+    }, 
+    "SUPERSAMPLE (110%)": {
+        "message": "加强品质 (110%)"
+    }, 
+    "SUPERSAMPLE (150%)": {
+        "message": "超强品质 (150%)"
+    }, 
+    "SUPERSAMPLE (175%)": {
+        "message": "极致品质 (175%)"
+    }, 
+    "Save": {
+        "message": "保存"
+    }, 
+    "Server": {
+        "message": "服务器"
+    }, 
+    "Settings": {
+        "message": "设置"
+    }, 
+    "Shadows": {
+        "message": "阴影"
+    }, 
+    "Show Build Previews": {
+        "message": "显示建造物预览"
+    }, 
+    "Show Metal Spot Icons": {
+        "message": "高亮金属采掘点"
+    }, 
+    "Show Order Previews": {
+        "message": "显示命令路线预览"
+    }, 
+    "Show Stat Bars": {
+        "message": "显示数据表"
+    }, 
+    "Show Unit Icons": {
+        "message": "显示单位图标"
+    }, 
+    "Show/Hide game stats": {
+        "message": "显示/隐藏 数据栏"
+    }, 
+    "Show/Hide pip": {
+        "message": "显示/隐藏 画中画"
+    }, 
+    "Sound Effects Volume": {
+        "message": "音效音量"
+    }, 
+    "UBER": {
+        "message": "极致"
+    }, 
+    "User Interface": {
+        "message": "用户交互界面"
+    }, 
+    "VALUE DEPENDENT": {
+        "message": "音效传播范围"
+    }, 
+    "Virtual Texture": {
+        "message": "纹理"
+    }, 
+    "Voice Volume": {
+        "message": "语音音量"
+    }, 
+    "WINDOWED": {
+        "message": "窗口化"
+    }, 
+    "Zoom Speed": {
+        "message": "变焦速度"
+    }, 
+    "abort": {
+        "message": "终止"
+    }, 
+    "add landing zone": {
+        "message": "添加登陆区域"
+    }, 
+    "add metal spot": {
+        "message": "添加金属采掘点"
+    }, 
+    "add/remove": {
+        "message": "添加/移除"
+    }, 
+    "alerts": {
+        "message": "警报"
+    }, 
+    "align to pole": {
+        "message": "对正地极"
+    }, 
+    "all chat": {
+        "message": "对所有人发送信息"
+    }, 
+    "alt fire": {
+        "message": "指挥官副武器"
+    }, 
+    "assist": {
+        "message": "协助"
+    }, 
+    "attack": {
+        "message": "攻击"
+    }, 
+    "bug report": {
+        "message": "反馈BUG"
+    }, 
+    "build": {
+        "message": "建造"
+    }, 
+    "build avatar": {
+        "message": "创建指挥官"
+    }, 
+    "build avatar factory": {
+        "message": "创建指挥官工厂"
+    }, 
+    "build bar groups": {
+        "message": "建造菜单分组"
+    }, 
+    "build item __item_number__": {
+        "message": "建造单位 __item_number__"
+    }, 
+    "build items": {
+        "message": "建造单位"
+    }, 
+    "build loop": {
+        "message": "循环建造"
+    }, 
+    "build once": {
+        "message": "单次建造"
+    }, 
+    "build orders": {
+        "message": "建造命令"
+    }, 
+    "camera": {
+        "message": "镜头"
+    }, 
+    "capture anchor": {
+        "message": "记录镜头"
+    }, 
+    "capture anchor __anchor_number__": {
+        "message": "记录镜头 __anchor_number__"
+    }, 
+    "capture group __group_number__": {
+        "message": "分组 __group_number__"
+    }, 
+    "chronocam": {
+        "message": "镜头回放"
+    }, 
+    "communication": {
+        "message": "交流"
+    }, 
+    "copy selected": {
+        "message": "复制选择"
+    }, 
+    "copy to pip": {
+        "message": "复制到画中画"
+    }, 
+    "copy unit": {
+        "message": "复制单位"
+    }, 
+    "crash": {
+        "message": "崩溃"
+    }, 
+    "decrease camera pan speed": {
+        "message": "降低镜头移动速度"
+    }, 
+    "delete selected": {
+        "message": "删除已选择"
+    }, 
+    "dev mode": {
+        "message": "开发者模式"
+    }, 
+    "direction": {
+        "message": "方向"
+    }, 
+    "disable navigation debug info": {
+        "message": "禁用测试调试信息"
+    }, 
+    "disconnect twin": {
+        "message": "分离双星"
+    }, 
+    "dismiss alert notification": {
+        "message": "取消通知"
+    }, 
+    "enable navigation debug info": {
+        "message": "开启测试调试信息"
+    }, 
+    "energy off": {
+        "message": "耗能模式关"
+    }, 
+    "energy on": {
+        "message": "耗能模式开"
+    }, 
+    "fire at will": {
+        "message": "随意开火"
+    }, 
+    "free move backward": {
+        "message": "自由向后移动"
+    }, 
+    "free move down": {
+        "message": "自由向下移动"
+    }, 
+    "free move forward": {
+        "message": "自由向前移动"
+    }, 
+    "free move left": {
+        "message": "自由向左移动"
+    }, 
+    "free move right": {
+        "message": "自由向右移动"
+    }, 
+    "free move up": {
+        "message": "自由向上移动"
+    }, 
+    "free movement": {
+        "message": "自由移动"
+    }, 
+    "free pitch backward": {
+        "message": "原地镜头前转"
+    }, 
+    "free pitch forward": {
+        "message": "原地镜头后转"
+    }, 
+    "free roll left": {
+        "message": "镜头左偏转"
+    }, 
+    "free roll right": {
+        "message": "镜头右偏转"
+    }, 
+    "free yaw left": {
+        "message": "原地镜头左转"
+    }, 
+    "free yaw right": {
+        "message": "原地镜头右转"
+    }, 
+    "free zoom in": {
+        "message": "镜头拉近"
+    }, 
+    "free zoom out": {
+        "message": "镜头拉远"
+    }, 
+    "general": {
+        "message": "通用"
+    }, 
+    "grab csg": {
+        "message": "获取地形"
+    }, 
+    "hold fire": {
+        "message": "停火"
+    }, 
+    "hold position": {
+        "message": "站定"
+    }, 
+    "increase camera pan speed": {
+        "message": "加快镜头移动速度"
+    }, 
+    "jump to next planet": {
+        "message": "查看下一个星球"
+    }, 
+    "jump to previous planet": {
+        "message": "查看上一个星球"
+    }, 
+    "last pseudo frame": {
+        "message": "最近的事件点"
+    }, 
+    "load": {
+        "message": "载入"
+    }, 
+    "maneuver": {
+        "message": "机动C"
+    }, 
+    "manipulate": {
+        "message": "特殊操作"
+    }, 
+    "mode": {
+        "message": "模式"
+    }, 
+    "modes": {
+        "message": "镜头模式"
+    }, 
+    "move": {
+        "message": "移动"
+    }, 
+    "move csg down": {
+        "message": "地形下移"
+    }, 
+    "move csg up": {
+        "message": "地形上移"
+    }, 
+    "move down": {
+        "message": "向下"
+    }, 
+    "move left": {
+        "message": "向左"
+    }, 
+    "move right": {
+        "message": "向右"
+    }, 
+    "move up": {
+        "message": "向右"
+    }, 
+    "navigate back/exit": {
+        "message": "返回/退出 "
+    }, 
+    "next pseudo frame": {
+        "message": "下一个事件点"
+    }, 
+    "paste": {
+        "message": "粘贴"
+    }, 
+    "paste unit": {
+        "message": "粘贴 单位"
+    }, 
+    "patrol": {
+        "message": "巡逻"
+    }, 
+    "pause game": {
+        "message": "暂停游戏 "
+    }, 
+    "pause time": {
+        "message": "暂停时间"
+    }, 
+    "picture-in-picture": {
+        "message": "画中画"
+    }, 
+    "ping": {
+        "message": "发送信号"
+    }, 
+    "planet jump": {
+        "message": "星球镜头跳跃"
+    }, 
+    "play backwards at 10%": {
+        "message": "回放 10%"
+    }, 
+    "play backwards at 100%": {
+        "message": "回放 100%"
+    }, 
+    "play backwards at 50%": {
+        "message": "回放 50%"
+    }, 
+    "play forward at 100%": {
+        "message": "回放 100%"
+    }, 
+    "play forward at 50%": {
+        "message": "回放 50%"
+    }, 
+    "play forwards at 10%": {
+        "message": "回放 10%"
+    }, 
+    "publish server mods": {
+        "message": "发布服务器模组"
+    }, 
+    "quick profile": {
+        "message": "快速构图"
+    }, 
+    "recall anchor": {
+        "message": "选择已捕获镜头"
+    }, 
+    "recall anchor __anchor_number__": {
+        "message": "选择镜头 __anchor_number__"
+    }, 
+    "recall group __group_number__": {
+        "message": "选择分组 __group_number__"
+    }, 
+    "reclaim": {
+        "message": "回收"
+    }, 
+    "reload view": {
+        "message": "重新载入视角"
+    }, 
+    "remove landing zone": {
+        "message": "隐藏登陆区域"
+    }, 
+    "remove metal spot": {
+        "message": "隐藏金属采掘点"
+    }, 
+    "repair": {
+        "message": "维修"
+    }, 
+    "resume at latest time": {
+        "message": "在最近的时间点恢复"
+    }, 
+    "return fire": {
+        "message": "反击姿态"
+    }, 
+    "roam": {
+        "message": "循进"
+    }, 
+    "rotate csg ccw": {
+        "message": "右旋地形"
+    }, 
+    "rotate csg cw": {
+        "message": "左旋地形"
+    }, 
+    "scale csg down": {
+        "message": "减小地形规模"
+    }, 
+    "scale csg horizontally down": {
+        "message": "降低地形水平高度"
+    }, 
+    "scale csg horizontally up": {
+        "message": "增高地形水平高度"
+    }, 
+    "scale csg up": {
+        "message": "增大地形规模"
+    }, 
+    "scale csg vertically down": {
+        "message": "垂直地形降低"
+    }, 
+    "scale csg vertically up": {
+        "message": "垂直地形增高"
+    }, 
+	"select air group": {
+        "message": "选择空军建筑物分组"
+    },
+    "select ammo group": {
+        "message": "选择弹药分组"
+    }, 
+    "select all air combat units": {
+        "message": "选择所有空中战斗单位"
+    }, 
+    "select all air combat units on screen": {
+        "message": "选择当前可见的所有空中战斗单位"
+    }, 
+    "select all combat units": {
+        "message": "选择所有战斗单位"
+    }, 
+    "select all combat units on screen": {
+        "message": "选择当前可见的所有战斗单位"
+    }, 
+    "select all factories": {
+        "message": "选择所有工程单位"
+    }, 
+    "select all factories on screen": {
+        "message": "选择当前可见的所有工程单位"
+    }, 
+    "select all idle factories": {
+        "message": "选择所有空闲工程单位"
+    }, 
+    "select all idle factories on screen": {
+        "message": "选择当前可见的所有空闲工程单位"
+    }, 
+    "select all land combat units": {
+        "message": "选择所有陆上战斗单位"
+    }, 
+    "select all land combat units on screen": {
+        "message": "选择当前可见的所有陆上战斗单位"
+    }, 
+    "select all matching units on screen": {
+        "message": "选择当前可见的所有相同单位"
+    }, 
+    "select all naval combat units": {
+        "message": "选择所有水上战斗单位"
+    }, 
+    "select all naval combat units on screen": {
+        "message": "选择当前可见的所有水上战斗单位"
+    }, 
+    "select bot group": {
+        "message": "选择机器人建筑物分组"
+    }, 
+    "select combat group": {
+        "message": "选择防御性建筑物分组"
+    }, 
+    "select commander": {
+        "message": "选择指挥官"
+    }, 
+    "select factory group": {
+        "message": "选择工厂类建筑分组"
+    }, 
+    "select idle fabbers": {
+        "message": "选择空闲工程单位"
+    }, 
+    "select orbital group (buildings)": {
+        "message": "选择太空建筑物分组"
+    }, 
+    "select orbital group (units)": {
+        "message": "选择太空战斗单位"
+    }, 
+    "select sea group": {
+        "message": "选择海上建筑物分组"
+    }, 
+    "select utility group": {
+        "message": "选择功能性建筑物分组"
+    }, 
+    "select vehicle group": {
+        "message": "选择载具建筑物分组"
+    }, 
+    "self destruct selected unit": {
+        "message": "自毁"
+    }, 
+    "set army from hover": {
+        "message": "设置 悬停军队C"
+    }, 
+    "set debug camera": {
+        "message": "选择debug 镜头"
+    }, 
+    "set default camera": {
+        "message": "选择默认镜头"
+    }, 
+    "set free camera": {
+        "message": "开启自由镜头"
+    }, 
+    "set pathable csg": {
+        "message": "选择可通行地形"
+    }, 
+    "set planet camera": {
+        "message": "选择星球镜头"
+    }, 
+    "show player guide": {
+        "message": "显示游戏指南"
+    }, 
+    "show/hide UI": {
+        "message": "显示/隐藏 UI"
+    }, 
+    "show/hide performance panel": {
+        "message": "显示/隐藏 数据表"
+    }, 
+    "show/hide visual aid overlays": {
+        "message": "显示/隐藏 单位信息图标"
+    }, 
+    "skip backward 1s": {
+        "message": "快退一秒"
+    }, 
+    "skip forward 1s": {
+        "message": "快进一秒"
+    }, 
+    "smooth zoom in": {
+        "message": "平滑拉近"
+    }, 
+    "smooth zoom out": {
+        "message": "平滑拉远"
+    }, 
+    "special move": {
+        "message": "特殊移动"
+    }, 
+    "stop": {
+        "message": "停止"
+    }, 
+    "swap pip": {
+        "message": "交换画中画"
+    }, 
+    "team chat": {
+        "message": "队伍聊天"
+    }, 
+    "terrain editor": {
+        "message": "地貌编辑器"
+    }, 
+    "toggle FOW": {
+        "message": "切换 低画质"
+    }, 
+    "toggle audio logging": {
+        "message": "切换 音乐 载入选项"
+    }, 
+    "toggle build orders": {
+        "message": "切换建造命令"
+    }, 
+    "toggle console": {
+        "message": "召唤控制台"
+    }, 
+    "toggle debug camera": {
+        "message": "切换 debug 镜头"
+    }, 
+    "toggle edit metal spots": {
+        "message": "切换 编辑 金属采掘点"
+    }, 
+    "toggle edit terrain mode": {
+        "message": "切换 编辑地貌模式"
+    }, 
+    "toggle energy orders": {
+        "message": "切换能源模式"
+    }, 
+    "toggle fire orders": {
+        "message": "切换开火模式"
+    }, 
+    "toggle free camera": {
+        "message": "切换自由镜头模式"
+    }, 
+    "toggle fullscreen": {
+        "message": "切换全屏"
+    }, 
+    "toggle move orders": {
+        "message": "切换移动模式"
+    }, 
+    "toggle music": {
+        "message": "切换音乐"
+    }, 
+    "toggle nav debug": {
+        "message": "显示 nav debug"
+    }, 
+    "toggle pip mirror": {
+        "message": "切换选择 画中画 镜像化"
+    }, 
+    "toggle show water": {
+        "message": "切换显示 水"
+    }, 
+    "track selection with camera": {
+        "message": "对焦选中单位"
+    }, 
+    "tracking & alignment": {
+        "message": "跟踪与对焦"
+    }, 
+    "tuning": {
+        "message": "调整"
+    }, 
+    "unit capture groups": {
+        "message": "编队命令"
+    }, 
+    "unit commands": {
+        "message": "单位命令"
+    }, 
+    "unit orders": {
+        "message": "单位预设命令"
+    }, 
+    "unit recall groups": {
+        "message": "选择预设编队"
+    }, 
+    "unit selection": {
+        "message": "单位选择"
+    }, 
+    "units": {
+        "message": "单位"
+    }, 
+    "unload": {
+        "message": "卸载单位"
+    }, 
+    "zoom": {
+        "message": "镜头对焦"
+    }, 
+    "zoom in": {
+        "message": "拉近"
+    }, 
+    "zoom out": {
+        "message": "拉远"
+    }, 
+    "zoom to air": {
+        "message": "对焦天空"
+    }, 
+    "zoom to celestial": {
+        "message": "对焦天体"
+    }, 
+    "zoom to combat": {
+        "message": "对焦战场"
+    }, 
+    "zoom to orbital": {
+        "message": "对焦轨道层"
+    }, 
+    "zoom to surface": {
+        "message": "对焦星球表面"
+    }
+}

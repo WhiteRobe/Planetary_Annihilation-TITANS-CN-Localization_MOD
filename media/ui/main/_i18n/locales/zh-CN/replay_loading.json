@@ -1,0 +1,23 @@
+{
+    "Cancel": {
+        "message": "取消"
+    }, 
+    "Loading Game": {
+        "message": "正在传送至战场..."
+    }, 
+    "Loading Replay": {
+        "message": "载入回放"
+    }, 
+    "Returning to menu": {
+        "message": "返回菜单"
+    }, 
+    "Starting replay server, please be patient...": {
+        "message": "正在连接服务器，来瓶绿叶凉茶吧...."
+    }, 
+    "Unable to load replay": {
+        "message": "无法载入回放"
+    }, 
+    "Unable to load save game": {
+        "message": "无法载入存档"
+    }
+}

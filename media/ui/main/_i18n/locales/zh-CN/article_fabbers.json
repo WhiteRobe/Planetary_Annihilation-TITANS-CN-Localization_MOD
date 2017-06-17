@@ -1,0 +1,32 @@
+{
+    "Advanced Fabbers come from Advanced Factories and can build both basic and advanced structures": {
+        "message": "\u9ad8\u7ea7\u5de5\u7a0b\u5355\u4f4d\u6765\u81ea\u9ad8\u7ea7\u5355\u4f4d\u5de5\u5382\uff0c\u53ef\u4ee5\u5efa\u9020\u57fa\u672c\u8bbe\u65bd\u548c\u9ad8\u7ea7\u8bbe\u65bd"
+    }, 
+    "Basic Fabbers build basic structures and Advanced Factories": {
+        "message": "\u57fa\u672c\u7b49\u7ea7\u7684\u5de5\u7a0b\u5355\u4f4d\u53ea\u80fd\u5efa\u9020\u57fa\u672c\u5efa\u7b51\u548c\u9ad8\u7ea7\u5355\u4f4d\u5de5\u5382"
+    }, 
+    "Fabbers are built by Vehicle, Air, Naval, Bot, and Orbital Factories": {
+        "message": "\u5de5\u7a0b\u5355\u4f4d\u7531\u673a\u5668\u4eba\u3001\u8f7d\u5177\u3001\u6d77\u3001\u7a7a\u3001\u5929\u4e94\u4e2a\u7cfb\u5217\u7684\u5355\u4f4d\u5de5\u5382\u751f\u4ea7"
+    }, 
+    "Fabrication Units": {
+        "message": "\u5236\u9020\u5355\u4f4d"
+    }, 
+    "Hold Shift + Left Click to queue up multiple build orders": {
+        "message": "\u6309\u4f4f Shift + \u5de6\u952e\u70b9\u51fb\u5355\u4f4d\u56fe\u6807\u6765\u521b\u5efa\u751f\u4ea7\u961f\u5217\uff08\u4e00\u6b21\u4e94\u4e2a\uff09"
+    }, 
+    "Left Click units on Build Bar and select a space in the world to build": {
+        "message": "\u5728\u5efa\u9020\u83dc\u5355\u91cc\u5de6\u952e\u70b9\u51fb\u5355\u4f4d\u56fe\u6807\uff0c\u7136\u540e\u5728\u6e38\u620f\u4e16\u754c\u91cc\u9009\u62e9\u4e00\u4e2a\u5730\u65b9\u5efa\u9020"
+    }, 
+    "PA Guide: Fabbers": {
+        "message": "\u6559\u7a0b: \u5de5\u7a0b\u5355\u4f4d"
+    }, 
+    "Select a Fabber to get access to Build Bar": {
+        "message": "\u9009\u62e9\u4e00\u4e2a\u5de5\u7a0b\u5355\u4f4d\u4ee5\u663e\u793a\u5efa\u9020\u83dc\u5355"
+    }, 
+    "[style=text_callout]Control + left click[/style] a unit to make a factory produce a single one of that unit before continuing with the rest of the build queue.": {
+        "message": "[style=text_callout]Control + \u5de6\u952e\u70b9\u51fb[/style] \u5355\u4f4d\u5236\u9020\u83dc\u5355\u91cc\u7684\u67d0\u4e2a\u5355\u4f4d\u56fe\u6807\u4ee5\u4f18\u5148\u5236\u9020\u8fd9\u4e2a\u5355\u4f4d."
+    }, 
+    "[style=text_callout]Right Click[/style] or [style=text_callout]Shift + Right Click[/style] on units to reduce number of units in queue": {
+        "message": "[style=text_callout]\u53f3\u952e\u70b9\u51fb[/style] \u6216 [style=text_callout]Shift + \u53f3\u952e\u70b9\u51fb[/style]\u5355\u4f4d\u5236\u9020\u83dc\u5355\u91cc\u7684\u67d0\u4e2a\u5355\u4f4d\u4ee5\u53d6\u6d88\u4e00\u4e2a\u6216\u591a\u4e2a\u5236\u9020\u8ba1\u5212"
+    }
+}

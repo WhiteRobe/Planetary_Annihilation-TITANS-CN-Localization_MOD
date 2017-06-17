@@ -1,0 +1,89 @@
+{
+    "ANNIHILATION COMPLETE": {
+        "message": "敌人已被歼灭"
+    }, 
+    "APM": {
+        "message": "APM"
+    }, 
+    "Average": {
+        "message": "平均"
+    }, 
+    "Built": {
+        "message": "建造"
+    }, 
+    "Destroyed": {
+        "message": "消灭单位"
+    }, 
+    "Determining ladder rank...": {
+        "message": "正在确定天梯等级..."
+    }, 
+    "Draw": {
+        "message": "平局"
+    }, 
+    "Duration:": {
+        "message": "时长:"
+    }, 
+    "Efficiency": {
+        "message": "利用率"
+    }, 
+    "Energy": {
+        "message": "能量"
+    }, 
+    "Metal": {
+        "message": "金属"
+    }, 
+    "Produced": {
+        "message": "产量"
+    }, 
+    "QUIT TO MAIN MENU": {
+        "message": "返回主菜单"
+    }, 
+    "REVIEW": {
+        "message": "回放"
+    }, 
+    "Requeue": {
+        "message": "重排"
+    }, 
+    "SPECTATE": {
+        "message": "观看"
+    }, 
+    "The battle ended in a draw.": {
+        "message": "生灵涂炭，无人胜出...."
+    }, 
+    "The game has ended.": {
+        "message": "游戏已结束."
+    }, 
+    "Total Oblivion": {
+        "message": "万物枯骨,你已被人淡忘..."
+    }, 
+    "Units": {
+        "message": "单位"
+    }, 
+    "Used": {
+        "message": "已使用"
+    }, 
+    "VICTORY IS YOURS": {
+        "message": "荣耀属于你！我的长官！"
+    }, 
+    "VIEW RESULTS": {
+        "message": "查看结果"
+    }, 
+    "VIEW STATS": {
+        "message": "查看统计数据"
+    }, 
+    "Winner:": {
+        "message": "胜利者:"
+    }, 
+    "Winners:": {
+        "message": "胜利者:"
+    }, 
+    "YOU'VE BEEN ANNIHILATED": {
+        "message": "你被敌人碾碎了"
+    }, 
+    "You currently have an unknown rank status. Complete more games to determine your ladder ranking.": {
+        "message": "系统不能确定你的天梯等级, 请多参加战斗以方便系统确认您的水平."
+    }, 
+    "Your 1v1 Ladder rank is __rank_title__.": {
+        "message": "您的段位等级是 __rank_title__."
+    }
+}

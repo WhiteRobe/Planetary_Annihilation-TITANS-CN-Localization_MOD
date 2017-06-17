@@ -1,0 +1,62 @@
+{
+    "ACCESS TO WORLD SIMULATION DENIED": {
+        "message": "创建世界失败，世界毁于混沌..."
+    }, 
+    "ACCESSING WORLD SIMULATION": {
+        "message": "世界有了光..."
+    }, 
+    "ATTEMPTS REMAINING: __num_attempts_remaining__": {
+        "message": "剩余步骤: __num_attempts_remaining__"
+    }, 
+    "CONNECTING TO SERVER": {
+        "message": "传送至目标星域"
+    }, 
+    "CONNECTION TO SERVER FAILED": {
+        "message": "丢失目标星域坐标，传送失败，断开连接.."
+    }, 
+    "CONNECTION TO SERVER LOST": {
+        "message": "断开连接"
+    }, 
+    "CREATING WORLD SIMULATION": {
+        "message": "上帝正在创造世界.."
+    }, 
+    "FAILED TO GET PERMISSION": {
+        "message": "进入权限验证失败，断开连接"
+    }, 
+    "FAILED TO JOIN GAME": {
+        "message": "无法加入战场"
+    }, 
+    "FAILED TO LOAD GAME": {
+        "message": "读取战场信息失败"
+    }, 
+    "FAILED TO START GAME": {
+        "message": "进入战场失败"
+    }, 
+    "FAILED TO START REPLAY": {
+        "message": "战斗回放载入失败"
+    }, 
+    "LOGIN ACCEPTED": {
+        "message": "已获取目标星系坐标"
+    }, 
+    "LOGIN TO SERVER REJECTED": {
+        "message": "无法连接至服务器"
+    }, 
+    "REQUESTING PERMISSION": {
+        "message": "正在获取进入许可"
+    }, 
+    "Returning to Main Menu": {
+        "message": "返回主菜单"
+    }, 
+    "STARTING GAME": {
+        "message": "开始游戏"
+    }, 
+    "UNABLE TO ACCESS WORLD SIMULATION": {
+        "message": "无法成功同步星系信息"
+    }, 
+    "WORLD SIMULATION WENT AWAY": {
+        "message": "星系信息异常，丢失连接"
+    }, 
+    "You are starting an offline game, but your system does not meet the recommended specifications for offline play. Your gameplay experience may be negatively affected.": {
+        "message": "您正在进行离线游戏，您的游戏体验可能会受到影响。"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "APPROVE": {
+        "message": "允许"
+    }, 
+    "APPROVED USERS": {
+        "message": "获许用户"
+    }, 
+    "Add": {
+        "message": ""
+    }, 
+    "Add Contacts": {
+        "message": "添加联系人"
+    }, 
+    "Add a Friend": {
+        "message": "添加好友"
+    }, 
+    "BLOCK": {
+        "message": "屏蔽"
+    }, 
+    "BLOCKED USERS": {
+        "message": "黑名单"
+    }, 
+    "Cancel": {
+        "message": "取消"
+    }, 
+    "Close": {
+        "message": "关闭"
+    }, 
+    "Contact List Updated": {
+        "message": "联系人名单更新完毕"
+    }, 
+    "Contact Not Found": {
+        "message": "联系人查询失败"
+    }, 
+    "Current Nickname:": {
+        "message": "当前网名:"
+    }, 
+    "Dismiss": {
+        "message": "解散"
+    }, 
+    "Filter contacts by tag:": {
+        "message": "过滤器:"
+    }, 
+    "Games you make will be hidden to these players.": {
+        "message": "您的游戏对当前用户不显示."
+    }, 
+    "Name:": {
+        "message": "名字: "
+    }, 
+    "New Nickname:": {
+        "message": "新网名: "
+    }, 
+    "New Tag:": {
+        "message": "新标签: "
+    }, 
+    "Players you have encountered recently.": {
+        "message": "您最近遇到的玩家."
+    }, 
+    "Private games you make will only be visible to these players.": {
+        "message": "私人游戏只有当前用户可见."
+    }, 
+    "RECENT": {
+        "message": "当前"
+    }, 
+    "REMOVE": {
+        "message": "移除"
+    }, 
+    "RENAME": {
+        "message": "重命名"
+    }, 
+    "Refresh Contacts": {
+        "message": "刷新联系人"
+    }, 
+    "Refreshing friends list.....": {
+        "message": "刷新好友列表"
+    }, 
+    "Rename": {
+        "message": "重命名"
+    }, 
+    "Rename Friend": {
+        "message": "添加昵称"
+    }, 
+    "SOCIAL": {
+        "message": "通信"
+    }, 
+    "Tag": {
+        "message": "游戏类型"
+    }, 
+    "Tag Friend:": {
+        "message": "朋友标签: "
+    }, 
+    "Tags:": {
+        "message": "标签: "
+    }, 
+    "UBERDEX": {
+        "message": "UBERDEX"
+    }, 
+    "Uber Name": {
+        "message": "用户名"
+    }, 
+    "or": {
+        "message": "或"
+    }
+}

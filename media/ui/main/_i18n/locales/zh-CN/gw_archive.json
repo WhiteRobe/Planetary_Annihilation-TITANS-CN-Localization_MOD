@@ -1,0 +1,20 @@
+{
+    "Annihilated": {
+        "message": "被歼灭"
+    }, 
+    "Archived Wars": {
+        "message": "银河历史"
+    }, 
+    "Details": {
+        "message": "查阅档案"
+    }, 
+    "Turns:": {
+        "message": "回合:"
+    }, 
+    "Victory": {
+        "message": "胜利"
+    }, 
+    "Wins:": {
+        "message": "胜利者:"
+    }
+}

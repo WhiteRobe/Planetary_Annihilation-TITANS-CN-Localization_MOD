@@ -1,0 +1,134 @@
+{
+    "ABSURD": {
+        "message": "无情"
+    }, 
+    "Annihilate enemies on claimed systems to collect their Tech.": {
+        "message": "消灭敌人以占领星系，并获取他们的科技."
+    }, 
+    "Archived Wars": {
+        "message": "银河历史"
+    }, 
+    "Choose a loadout to give your Commander different starting Tech configurations.": {
+        "message": "选择一套指挥官配置. 配置不同则起始时拥有的科技也不同."
+    }, 
+    "Commander": {
+        "message": "指挥官"
+    }, 
+    "Difficulty:": {
+        "message": "难度:"
+    }, 
+    "EPIC": {
+        "message": "超大"
+    }, 
+    "Explore unclaimed systems to recover Tech.": {
+        "message": "探索未被控制的星系以发现新科技."
+    }, 
+    "Faction": {
+        "message": "势力"
+    }, 
+    "Galactic War": {
+        "message": "银河战争"
+    }, 
+    "Game name": {
+        "message": "游戏名"
+    }, 
+    "Go to War": {
+        "message": "投入战场！"
+    }, 
+    "HARD": {
+        "message": "困难"
+    }, 
+    "Hardcore": {
+        "message": "硬核"
+    }, 
+    "How To Play": {
+        "message": "游戏指南"
+    }, 
+    "How to Play": {
+        "message": "游戏指南"
+    }, 
+    "LARGE": {
+        "message": "大型"
+    }, 
+    "LOCKED": {
+        "message": "未解锁"
+    }, 
+    "Loadout": {
+        "message": "配置"
+    }, 
+    "MEDIUM": {
+        "message": "中型"
+    }, 
+    "Move from star system to star system collecting Techs. Use those Techs to defeat the enemy faction leaders and conquer the galaxy!": {
+        "message": "在星系间穿梭并获取新的科技, 运用这些科技摧毁敌方势力总指挥官, 征服整个银河！"
+    }, 
+    "NORMAL": {
+        "message": "普通"
+    }, 
+    "Name": {
+        "message": "名字"
+    }, 
+    "Navigate the galaxy map by jumping from system to system.": {
+        "message": "通过在星系之间跃迁, 你可以在银河地图上移动."
+    }, 
+    "New Data Banks to store Techs can be found by exploring systems.": {
+        "message": "在探索过程中可以找到用来存储新科技的外接数据库."
+    }, 
+    "Permanent death. No restarts when your commander is annihilated.": {
+        "message": "寒夜永临: 若指挥官被摧毁则战争失败."
+    }, 
+    "RELENTLESS": {
+        "message": "残酷"
+    }, 
+    "Random number for generating new galaxy": {
+        "message": "用于生成新银河的随机数"
+    }, 
+    "SMALL": {
+        "message": "小"
+    }, 
+    "Saved Games": {
+        "message": "已存档游戏"
+    }, 
+    "Seed Value": {
+        "message": "种子数值"
+    }, 
+    "Setup": {
+        "message": "设置"
+    }, 
+    "Size:": {
+        "message": "尺寸:"
+    }, 
+    "Some commanders fight because it's all they know, while others seek answers to their origins. Conflicts in motivation and creed drive the commanders into a war that is poised to ravage the galaxy for centuries.": {
+        "message": "有些指挥官战斗, 因为战斗是他唯一知道的事情; 有些指挥官是为了寻找自己的起源. 信条与动机的不同驱使着指挥官之间互相征战, 银河注定将被战火覆盖."
+    }, 
+    "Some systems have hidden Commander loadouts. Recover them for future Galactic Wars.": {
+        "message": "一些星系藏有其他的指挥官配置, 配置回收后可以在未来的银河战争中使用."
+    }, 
+    "Tech can be deleted to make room for new ones to download. Deleted and rejected Techs are lost for the remainder of the Galactic War.": {
+        "message": "若数据库已满, 可以删除已有科技以下载新科技. 被删除的科技将无法恢复."
+    }, 
+    "The Commanders": {
+        "message": "‘指挥官’介绍"
+    }, 
+    "The Progenitors": {
+        "message": "‘先驱者’介绍"
+    }, 
+    "The commanders have slumbered for millions of years, and awaken to a galaxy that contains only echoes of civilization. These ancient war machines now battle across the galaxy, following the only directives they still hold from long ago.": {
+        "message": "指挥官们已经沉睡了几百万年, 在他们重新苏醒的时候, 银河中的文明早已土崩瓦解. 这些古老的战争机器现在在银河之中燃起了战火, 忠实地遵循着那些没有被漫长世纪所磨灭的指令."
+    }, 
+    "Tip:": {
+        "message": "提示:"
+    }, 
+    "Tips": {
+        "message": "提示"
+    }, 
+    "UBER": {
+        "message": "巨型"
+    }, 
+    "War - __date__": {
+        "message": "银河战争纪年 - __date__"
+    }, 
+    "What little is clear is that the galaxy was once inhabited by a sprawling empire, seemingly destroyed by conflict. The commanders refer to these beings as The Progenitors. Many commanders believe answers to their origins lie within the ruins of this once great civilization.": {
+        "message": "整个银河曾经是一个庞大国家的领地, 然而这个国家似乎在冲突中瓦解了. 指挥官们把这个帝国的居民叫做先驱者. 许多指挥官相信在先驱者文明的废墟之间能找到有关于自己起源的信息."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Area Commands": {
+        "message": "指挥官"
+    }, 
+    "Basic Camera Controls": {
+        "message": "基础镜头控制"
+    }, 
+    "Clicking": {
+        "message": "点击"
+    }, 
+    "Close": {
+        "message": "关闭"
+    }, 
+    "Commander Basics": {
+        "message": "指挥官基础命令"
+    }, 
+    "Economy and Resources": {
+        "message": "经济与资源"
+    }, 
+    "Energy Resources": {
+        "message": "能源资源"
+    }, 
+    "Fabrication Units": {
+        "message": "工程单位"
+    }, 
+    "Factories": {
+        "message": "工程设施"
+    }, 
+    "Important Hotkeys": {
+        "message": "重要热键"
+    }, 
+    "Metal Resources": {
+        "message": "金属资源"
+    }, 
+    "Player Guide": {
+        "message": "玩家指南"
+    }
+}

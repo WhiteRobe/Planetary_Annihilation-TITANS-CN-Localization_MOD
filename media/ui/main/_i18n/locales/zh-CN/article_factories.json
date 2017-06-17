@@ -1,0 +1,23 @@
+{
+    "Factories": {
+        "message": "\u5355\u4f4d\u5236\u9020\u5de5\u5382"
+    }, 
+    "PA Guide: Factories": {
+        "message": "\u6559\u7a0b:\u5355\u4f4d\u5236\u9020\u5de5\u5382"
+    }, 
+    "Select a Factory to get access to Build Bar": {
+        "message": "\u9009\u62e9\u4e00\u4e2a\u5de5\u5382\u4ee5\u663e\u793a\u5355\u4f4d\u5236\u9020\u83dc\u5355"
+    }, 
+    "[style=text_callout]Control + Left Click[/style] a unit to make a factory produce a single one of that unit before continuing with the rest of the build queue.": {
+        "message": "[style=text_callout]Control + \u5de6\u952e\u70b9\u51fb[/style] \u5236\u9020\u83dc\u5355\u91cc\u7684\u67d0\u4e2a\u5355\u4f4d\u6765\u4f18\u5148\u751f\u4ea7\u8fd9\u4e2a\u5355\u4f4d."
+    }, 
+    "[style=text_callout]Left Click[/style] units on Build Bar to build": {
+        "message": "[style=text_callout]\u5de6\u952e\u70b9\u51fb[/style] \u5236\u9020\u83dc\u5355\u91cc\u7684\u67d0\u4e2a\u5355\u4f4d\u56fe\u6807\u4ee5\u751f\u4ea7\u8fd9\u4e2a\u5355\u4f4d"
+    }, 
+    "[style=text_callout]Right Click[/style] or [style=text_callout]Shift + Right Click[/style] on units to reduce number of units in queue": {
+        "message": "[style=text_callout]\u53f3\u952e\u70b9\u51fb[/style] \u6216 [style=text_callout]Shift +\u53f3\u952e\u70b9\u51fb[/style] \u6216 [/style] \u5236\u9020\u83dc\u5355\u91cc\u7684\u751f\u4ea7\u961f\u5217\u6765\u53d6\u6d88\u4e00\u4e2a\u6216\u591a\u4e2a\u751f\u4ea7\u8ba1\u5212"
+    }, 
+    "[style=text_callout]Shift + Left Click[/style] units on Build Bar to build multiple": {
+        "message": "[style=text_callout]Shift + \u5de6\u952e\u70b9\u51fb[/style] \u5236\u9020\u83dc\u5355\u91cc\u7684\u67d0\u4e2a\u5355\u4f4d\u56fe\u6807\u6765\u751f\u4ea7\u591a\u4e2a\u5355\u4f4d\uff08\u4e00\u6b21\u4e94\u4e2a\uff09"
+    }
+}

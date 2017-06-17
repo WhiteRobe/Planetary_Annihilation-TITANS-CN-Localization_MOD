@@ -1,0 +1,77 @@
+{
+    "Build Efficiency": {
+        "message": "建造效率"
+    }, 
+    "CLOSE": {
+        "message": "关闭"
+    }, 
+    "Command Rate": {
+        "message": "指令频率"
+    }, 
+    "Draw": {
+        "message": "消耗"
+    }, 
+    "Energy Demand": {
+        "message": "能量需求"
+    }, 
+    "Energy Production": {
+        "message": "能量产能"
+    }, 
+    "Energy Wasted": {
+        "message": "能量浪费"
+    }, 
+    "GAME SUMMARY": {
+        "message": "游戏总结"
+    }, 
+    "In Progress": {
+        "message": "游戏中"
+    }, 
+    "Metal Demand": {
+        "message": "金属需求"
+    }, 
+    "Metal Destruction Rate": {
+        "message": "金属摧毁率"
+    }, 
+    "Metal Loss Rate": {
+        "message": "金属损失率"
+    }, 
+    "Metal Production": {
+        "message": "金属产能"
+    }, 
+    "Metal Wasted": {
+        "message": "金属浪费"
+    }, 
+    "Retrieving Stats...": {
+        "message": "正在查询数据..."
+    }, 
+    "Total Units": {
+        "message": "总单位数"
+    }, 
+    "Unit Build Rate": {
+        "message": "单位建造率"
+    }, 
+    "Unit Destruction Rate": {
+        "message": "单位摧毁率"
+    }, 
+    "Unit Loss Rate": {
+        "message": "单位损失率"
+    }, 
+    "Units In Combat": {
+        "message": "战斗中的单位数量"
+    }, 
+    "Units: Fabricators": {
+        "message": "单位: 工程单位"
+    }, 
+    "Units: Factory": {
+        "message": "单位: 工厂"
+    }, 
+    "Units: Mobile": {
+        "message": "单位: 战斗"
+    }, 
+    "Winner:": {
+        "message": "胜利者:"
+    }, 
+    "Winners:": {
+        "message": "胜利者:"
+    }
+}

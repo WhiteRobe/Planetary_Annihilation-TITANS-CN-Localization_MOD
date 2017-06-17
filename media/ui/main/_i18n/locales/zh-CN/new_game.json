@@ -1,0 +1,191 @@
+{
+    "- Host": {
+        "message": "- 房主"
+    }, 
+    "AI Commander": {
+        "message": "AI 指挥官"
+    }, 
+    "AI:": {
+        "message": "AI: "
+    }, 
+    "Add AI": {
+        "message": "添加 AI"
+    }, 
+    "Add AI Commander": {
+        "message": "添加 AI 指挥官"
+    }, 
+    "Add Slot": {
+        "message": "添加位置"
+    }, 
+    "Add Team": {
+        "message": "添加势力"
+    }, 
+    "Allow for players to make and break in-game alliances and the option to share resources": {
+        "message": "允许玩家加入或退出盟国；允许开启共享资源选项"
+    }, 
+    "Allows for players to cut and paste units for experimenting": {
+        "message": "允许玩家启动开发者模式"
+    }, 
+    "Bounty Mode": {
+        "message": "赏金模式"
+    }, 
+    "Browse systems...": {
+        "message": "浏览星系..."
+    }, 
+    "Building planets": {
+        "message": "创造星球"
+    }, 
+    "Building planets...": {
+        "message": "上帝正在创造世界..."
+    }, 
+    "CONNECTION TO SERVER LOST": {
+        "message": "连接丢失"
+    }, 
+    "Chat": {
+        "message": "聊天"
+    }, 
+    "Cheats": {
+        "message": "作弊"
+    }, 
+    "Default": {
+        "message": "默认"
+    }, 
+    "Dynamic Alliances": {
+        "message": "自由盟约"
+    }, 
+    "Econ Rate": {
+        "message": "采集速率"
+    }, 
+    "Empty": {
+        "message": "空白"
+    }, 
+    "For every army a player kills, an economy multiplier is awarded to them that boosts their rate of production": {
+        "message": " 猎杀其他玩家的指挥官以获得一定采集速率加成"
+    }, 
+    "Free For All": {
+        "message": "自由"
+    }, 
+    "Friends": {
+        "message": "好友"
+    }, 
+    "Game Lobby": {
+        "message": "游戏大厅"
+    }, 
+    "Game Mode": {
+        "message": "游戏模式"
+    }, 
+    "Global Spectator Chat": {
+        "message": "观察者自由聊天"
+    }, 
+    "Join": {
+        "message": "加入"
+    }, 
+    "Kick": {
+        "message": "踢出"
+    }, 
+    "Large Planets": {
+        "message": "超大星球"
+    }, 
+    "Leave": {
+        "message": "离开"
+    }, 
+    "Multiplier Per Army Kill:": {
+        "message": "每次成功的猎杀可得奖励:"
+    }, 
+    "No green starting zones used. Players can start anywhere they pick.": {
+        "message": " 无登陆区域限制，可在起始星球上自由选择着陆点."
+    }, 
+    "Open to:": {
+        "message": "房间可视设置:"
+    }, 
+    "Password (optional)": {
+        "message": "密码 (可选)"
+    }, 
+    "Player Slot": {
+        "message": "玩家位置"
+    }, 
+    "Player chooses spot on starting planet": {
+        "message": "玩家可在起始星球上自由选择登陆点"
+    }, 
+    "Players)": {
+        "message": "玩家)"
+    }, 
+    "Private": {
+        "message": "私人"
+    }, 
+    "Public": {
+        "message": "开放"
+    }, 
+    "Random": {
+        "message": "随机"
+    }, 
+    "Ready": {
+        "message": "准备投入战场"
+    }, 
+    "Remove": {
+        "message": "移除"
+    }, 
+    "Returning to Main Menu": {
+        "message": "返回主菜单"
+    }, 
+    "SHARE ARMY": {
+        "message": "共享军队"
+    }, 
+    "SPECTATORS": {
+        "message": "观众"
+    }, 
+    "Sandbox": {
+        "message": "开发者模式"
+    }, 
+    "Select System": {
+        "message": "选择星系"
+    }, 
+    "Server Mods": {
+        "message": "服务器模组"
+    }, 
+    "Slot": {
+        "message": "位置"
+    }, 
+    "Slot __slot_number__": {
+        "message": "位置 __slot_number__"
+    }, 
+    "Slots are empty.": {
+        "message": "参战者人数不足."
+    }, 
+    "Spectate": {
+        "message": "观察者"
+    }, 
+    "Spectator messages are visible during in-game chat": {
+        "message": " 观察者聊天信息可见"
+    }, 
+    "Spectators": {
+        "message": "观察者"
+    }, 
+    "Start Game": {
+        "message": "战斗开始"
+    }, 
+    "Symmetrical": {
+        "message": "对称分布"
+    }, 
+    "System": {
+        "message": "星系"
+    }, 
+    "Tag:": {
+        "message": "标签:"
+    }, 
+    "Team": {
+        "message": "势力"
+    }, 
+    "Team Armies": {
+        "message": "组队模式"
+    }, 
+    "Team __team_number__": {
+        "message": "势力 __team_number__"
+    }, 
+    "Title": {
+        "message": "房间名"
+    }, 
+    "You must have friends to play a friends-only game.": {
+        "message": "没有好友还想开启好友模式？洗洗睡吧喵."
+    }
+}

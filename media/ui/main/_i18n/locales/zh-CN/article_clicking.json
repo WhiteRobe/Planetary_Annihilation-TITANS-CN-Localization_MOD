@@ -1,0 +1,20 @@
+{
+    "Clicking": {
+        "message": "\u70b9\u51fb\u6559\u7a0b"
+    }, 
+    "PA Guide: Clicking": {
+        "message": "\u6559\u7a0b:\u70b9\u51fb\u6559\u7a0b"
+    }, 
+    "[style=text_callout]Double click[/style] a unit to select similar units": {
+        "message": "[style=text_callout]\u53cc\u51fb[/style]\u4e00\u4e2a\u5355\u4f4d\u6765\u9009\u62e9\u540c\u7c7b\u5355\u4f4d"
+    }, 
+    "[style=text_callout]Left Click + Hold[/style] and drag to window select multiple units": {
+        "message": "[style=text_callout]\u5de6\u952e\u70b9\u51fb\u4e00\u4e2a\u5355\u4f4d\u5e76\u62d6\u52a8[/style]\u6765\u9009\u62e9\u591a\u4e2a\u5355\u4f4d"
+    }, 
+    "[style=text_callout]Left Click[/style] to select unit, [style=text_callout]Right Click[/style] for action.": {
+        "message": "[style=text_callout]\u5de6\u952e\u70b9\u51fb[/style] \u6765\u9009\u62e9\u5355\u4f4d, [style=text_callout]\u53f3\u952e\u70b9\u51fb[/style]\u4ee5\u884c\u52a8."
+    }, 
+    "[style=text_callout]Shift + Right Click[/style] to queue up multiple orders": {
+        "message": "[style=text_callout]Shift + \u53f3\u952e[/style] \u53d6\u6d88\u8ba1\u5212"
+    }
+}

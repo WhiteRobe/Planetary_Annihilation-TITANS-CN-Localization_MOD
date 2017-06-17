@@ -1,0 +1,119 @@
+{
+    "Account Name:": {
+        "message": "账户名称:"
+    }, 
+    "Add To Cart": {
+        "message": "添加至购物车"
+    }, 
+    "Armory": {
+        "message": "军械库"
+    }, 
+    "Badges": {
+        "message": "勋章"
+    }, 
+    "CHECKOUT": {
+        "message": "结账"
+    }, 
+    "Cancel": {
+        "message": "取消"
+    }, 
+    "Cart": {
+        "message": "购物车"
+    }, 
+    "Commanders": {
+        "message": "指挥官"
+    }, 
+    "Confirmation code:": {
+        "message": "确认码:"
+    }, 
+    "Confirmation of your purchase is provided below.": {
+        "message": "请确认您的购买信息."
+    }, 
+    "Continue Shopping": {
+        "message": "继续选购"
+    }, 
+    "Coupon code": {
+        "message": "优惠券代码"
+    }, 
+    "Credit applied:": {
+        "message": "使用点数: "
+    }, 
+    "Designed in collaboration with": {
+        "message": "设计者"
+    }, 
+    "Dismiss": {
+        "message": "遣散"
+    }, 
+    "Go to Main Menu": {
+        "message": "返回主菜单"
+    }, 
+    "Here's your receipt.": {
+        "message": "这是您收据."
+    }, 
+    "It appears that you have turned off the Steam Overlay, and we are unable to initiate your purchase without it.": {
+        "message": "您错误的关闭了steam，因此付款失败."
+    }, 
+    "Item": {
+        "message": "军火"
+    }, 
+    "Item is already in cart.": {
+        "message": "军火已在您的购物车中."
+    }, 
+    "Kickstarter Backer": {
+        "message": "众筹参与者"
+    }, 
+    "PA: Titans": {
+        "message": "PA: 泰坦"
+    }, 
+    "Please enjoy all the new units, new worlds, and new ways to annihilate everything!.": {
+        "message": "请享受您的新玩♂具，尽情毁灭一切吧."
+    }, 
+    "Please exit the game, find it in your Steam library, right click it, select Properties, and make sure that \"Enable the Steam Overlay while in-game\" is checked. After doing so, start the game and try again.": {
+        "message": "steam发生错误，具体情况如下：Please exit the game, find it in your Steam library, right click it, select Properties, and make sure that \"Enable the Steam Overlay while in-game\" is checked. After doing so, start the game and try again."
+    }, 
+    "Price": {
+        "message": "价格"
+    }, 
+    "QUIT & INSTALL TITANS": {
+        "message": "退出并安装泰坦"
+    }, 
+    "REMOVE": {
+        "message": "移除"
+    }, 
+    "Redeem": {
+        "message": "兑换"
+    }, 
+    "Reset Default Commander": {
+        "message": "重设默认指挥官"
+    }, 
+    "Return to Armory": {
+        "message": "返回军火库"
+    }, 
+    "Set As Default Commander": {
+        "message": "选择默认指挥官"
+    }, 
+    "Steam Overlay Disabled": {
+        "message": "Steam连接异常"
+    }, 
+    "THE TITANS HAVE ARRIVED": {
+        "message": "泰坦临世，万物跪服！"
+    }, 
+    "Thank you for purchasing TITANS! You'll find it in your Steam library right next to Planetary Annihilation!": {
+        "message": "感谢您的购买。Pika在此对壕表示跪服"
+    }, 
+    "Thank you for your purchase.": {
+        "message": "感谢您的购买。"
+    }, 
+    "Total:": {
+        "message": "总价: "
+    }, 
+    "Updating...": {
+        "message": "更新中"
+    }, 
+    "Your cart is empty.": {
+        "message": "您的购物车是空的."
+    }, 
+    "Your purchased items are now registered to your account and are accessible in the game.": {
+        "message": "您购买的军火已运送到库，欢迎使用。."
+    }
+}

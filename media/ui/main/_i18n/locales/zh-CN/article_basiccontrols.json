@@ -1,0 +1,20 @@
+{
+    "Arrow Keys to rotate around planet": {
+        "message": "\u65b9\u5411\u952e\u63a7\u5236\u661f\u7403\u8f6c\u52a8"
+    }, 
+    "Basic Camera Controls": {
+        "message": "\u57fa\u7840\u89c6\u89d2\u63a7\u5236"
+    }, 
+    "Go between planets using planet menu (upper right of screen)": {
+        "message": "\u5728\u661f\u7403\u95f4\u5207\u6362\u8bf7\u4f7f\u7528\u53f3\u4e0a\u89d2\u7684\u661f\u7403\u9009\u62e9\u83dc\u5355"
+    }, 
+    "Hold Mouse Wheel, drag to pan view": {
+        "message": "\u6309\u4f4f\u9f20\u6807\u6eda\u8f6e, \u62d6\u52a8\u6765\u79fb\u52a8\u89c6\u89d2"
+    }, 
+    "PA Guide: Basic Controls": {
+        "message": "\u6559\u7a0b: \u57fa\u7840\u63a7\u5236"
+    }, 
+    "Scroll Mouse Wheel to zoom in and out": {
+        "message": "\u6eda\u52a8\u9f20\u6807\u6eda\u8f6e\u6765\u63a7\u5236\u955c\u5934\u62c9\u8fd1\u62c9\u8fdc"
+    }
+}

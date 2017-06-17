@@ -1,0 +1,113 @@
+{
+    "Abandon": {
+        "message": "放弃"
+    }, 
+    "Accept": {
+        "message": "接受"
+    }, 
+    "Back": {
+        "message": "返回"
+    }, 
+    "Cancel": {
+        "message": "取消"
+    }, 
+    "Decline": {
+        "message": "拒绝"
+    }, 
+    "Enter Queue": {
+        "message": "开始排队"
+    }, 
+    "Failed to Join": {
+        "message": "加入失败"
+    }, 
+    "Failed to connect to match making server.": {
+        "message": "加入比赛服务器失败."
+    }, 
+    "Failed to create game.": {
+        "message": "开启游戏失败."
+    }, 
+    "Match Making Error": {
+        "message": "排位赛错误"
+    }, 
+    "Match Making Penalty": {
+        "message": "排位赛处罚"
+    }, 
+    "Matchmaking found a match!": {
+        "message": "找到比赛对象！"
+    }, 
+    "One or more other players declined or the match expired.": {
+        "message": "有玩家拒接加入或比赛丢失."
+    }, 
+    "Opponent": {
+        "message": "对手"
+    }, 
+    "Reconnect": {
+        "message": "重连"
+    }, 
+    "Unable to connect to server.": {
+        "message": "无法连接至西电服务器."
+    }, 
+    "You": {
+        "message": "您"
+    }, 
+    "You are already assigned to a match.": {
+        "message": "您已经被分配到一场比赛."
+    }, 
+    "You have been penalized for abandoning a game, please try matchmaking again when your penalty has expired.": {
+        "message": "您因放弃比赛而被冻结，请稍后再试."
+    }, 
+    "You have been penalized for abandoning a game.": {
+        "message": "您因放弃比赛而被冻结."
+    }, 
+    "You were penalized for abandoning, but your penalty has now expired.": {
+        "message": "冻结时间已结束，可以继续出征！"
+    }, 
+    "Your confirmation was not received in time.": {
+        "message": "未及时确认...."
+    }, 
+    "average queue time": {
+        "message": "平均排队时间为"
+    }, 
+    "beginning match making": {
+        "message": "开始排位赛"
+    }, 
+    "connecting to matchmaker": {
+        "message": "正在连接至服务器"
+    }, 
+    "finding game server": {
+        "message": "找到游戏所在服务器"
+    }, 
+    "idle": {
+        "message": "血与荣耀！"
+    }, 
+    "leaving match making": {
+        "message": "离开排位赛"
+    }, 
+    "leaving queue": {
+        "message": "放弃排队"
+    }, 
+    "match expires in:": {
+        "message": "比赛尚余:"
+    }, 
+    "match found": {
+        "message": "已找到比赛"
+    }, 
+    "penalty expires in:": {
+        "message": "冻结时间尚余:"
+    }, 
+    "players in queue": {
+        "message": "队列中的玩家"
+    }, 
+    "queue time": {
+        "message": "排队时间"
+    }, 
+    "reconnect": {
+        "message": "重新连接"
+    }, 
+    "searching for opponent": {
+        "message": "寻找一个对手"
+    }, 
+    "searching for opponents": {
+        "message": "寻找多个对手"
+    }
+}

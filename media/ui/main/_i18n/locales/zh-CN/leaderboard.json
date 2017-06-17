@@ -1,0 +1,113 @@
+{
+    "1 day ago": {
+        "message": "\u4e00\u5929\u524d"
+    }, 
+    "1 hour ago": {
+        "message": "\u4e00\u5c0f\u65f6\u524d"
+    }, 
+    "1 minute ago": {
+        "message": "\u4e00\u5206\u949f\u524d"
+    }, 
+    "1 second ago": {
+        "message": "\u4e00\u79d2\u524d"
+    }, 
+    "1 week ago": {
+        "message": "\u4e00\u5468\u524d"
+    }, 
+    "Bronze": {
+        "message": "\u9752\u94dc"
+    }, 
+    "Failed to load this leaderboard level.": {
+        "message": "\u8f7d\u5165\u5931\u8d25."
+    }, 
+    "Gold": {
+        "message": "\u9ec4\u91d1"
+    }, 
+    "Inactive": {
+        "message": "\u65e0\u6548"
+    }, 
+    "Just now": {
+        "message": "\u521a\u624d"
+    }, 
+    "Last Match Played": {
+        "message": "\u6700\u8fd1\u4e00\u6b21\u6218\u6597"
+    }, 
+    "Leaderboards": {
+        "message": "\u6392\u884c\u699c"
+    }, 
+    "Level rank": {
+        "message": "\u5929\u68af"
+    }, 
+    "Loading Leaderboard": {
+        "message": "\u8f7d\u5165\u6392\u884c\u699c"
+    }, 
+    "Match games played": {
+        "message": "\u53c2\u52a0\u8fc7\u7684\u6bd4\u8d5b"
+    }, 
+    "No ranked players at this level.": {
+        "message": "\u5f53\u524d\u65e0\u73a9\u5bb6\u5904\u4e8e\u540c\u6bb5\u4f4d."
+    }, 
+    "No recent matches played.": {
+        "message": "\u6ca1\u6709\u6700\u8fd1\u53c2\u52a0\u8fc7\u7684\u6bd4\u8d5b."
+    }, 
+    "One ranked player at this level.": {
+        "message": "\u53d1\u73b0\u540c\u6bb5\u73a9\u5bb6."
+    }, 
+    "Platinum": {
+        "message": "\u94c2\u91d1"
+    }, 
+    "Play ranked match": {
+        "message": "\u5f00\u59cb\u6392\u4f4d\u8d5b"
+    }, 
+    "Player": {
+        "message": "\u73a9\u5bb6"
+    }, 
+    "Provisional": {
+        "message": "\u4e34\u65f6"
+    }, 
+    "Rank": {
+        "message": "\u6bb5\u4f4d"
+    }, 
+    "Rank pending until enough match games are played.": {
+        "message": "\u5b8c\u6210\u5b9a\u4f4d\u8d5b\u524d\u65e0\u6bb5\u4f4d."
+    }, 
+    "Silver": {
+        "message": "\u767d\u94f6"
+    }, 
+    "This leaderboard level is currently empty.": {
+        "message": "\u8be5\u6bb5\u4f4d\u6682\u65f6\u65e0\u4eba."
+    }, 
+    "Uber": {
+        "message": "\u6cf0\u5766"
+    }, 
+    "Unknown": {
+        "message": "\u4f4d\u7f6e"
+    }, 
+    "Unranked": {
+        "message": "\u65e0\u6bb5\u4f4d"
+    }, 
+    "Watch Replay": {
+        "message": "\u89c2\u770b\u56de\u653e"
+    }, 
+    "Your rank": {
+        "message": "\u60a8\u7684\u6bb5\u4f4d"
+    }, 
+    "__n__ days ago": {
+        "message": "__n__ \u5929\u524d"
+    }, 
+    "__n__ hours ago": {
+        "message": "__n__ \u5c0f\u65f6\u524d"
+    }, 
+    "__n__ minutes ago": {
+        "message": "__n__ \u5206\u949f\u524d"
+    }, 
+    "__n__ seconds ago": {
+        "message": "__n__ \u79d2\u524d"
+    }, 
+    "__n__ weeks ago": {
+        "message": "__n__ \u5468\u524d"
+    }, 
+    "__num_players__ ranked players at this level.": {
+        "message": "__num_players__ \u4f4d\u73a9\u5bb6\u5904\u4e8e\u8be5\u6bb5\u4f4d."
+    }
+}

@@ -1,0 +1,590 @@
+{
+    "Game Stats": {
+        "message": "统计数据"
+    }, 
+    "ALLIANCES": {
+        "message": "联盟"
+    }, 
+    "ALLY": {
+        "message": "盟军"
+    }, 
+    "ALT-FIRE": {
+        "message": "副武器"
+    }, 
+    "ANNIHILATE EVERYTHING": {
+        "message": "毁灭一切！泯灭所有!"
+    }, 
+    "ANNIHILATED": {
+        "message": "被碾碎"
+    }, 
+    "APS:": {
+        "message": "射速 次/秒:"
+    }, 
+    "ARMY": {
+        "message": "军队"
+    }, 
+    "ASSIST": {
+        "message": "协助"
+    }, 
+    "AT WILL": {
+        "message": "随意"
+    }, 
+    "ATTACK": {
+        "message": "攻击"
+    }, 
+    "ATTACKING": {
+        "message": "正在攻击"
+    }, 
+    "Abandon War": {
+        "message": "逃离战场"
+    }, 
+    "Accept": {
+        "message": "接受"
+    }, 
+    "Activate planetary laser": {
+        "message": "死星已完成发射准备....."
+    }, 
+    "Add": {
+        "message": "增加"
+    }, 
+    "Advanced": {
+        "message": "高级"
+    }, 
+    "Air": {
+        "message": "空军"
+    }, 
+    "All catalysts online on __planet_name__! Click here to annihilate!": {
+        "message": "死星——__planet_name__已完成发射准备。点此选择攻击目标"
+    }, 
+    "Alliance Request": {
+        "message": "结盟请求"
+    }, 
+    "Alliance requested": {
+        "message": "已发送结盟请求"
+    }, 
+    "Allied With:": {
+        "message": "联盟:"
+    }, 
+    "Allied __unit_name__ lost.": {
+        "message": "盟军 __unit_name__ 被摧毁."
+    }, 
+    "Allies": {
+        "message": "盟军"
+    }, 
+    "Anti-nuke - Intercepts incoming nuclear missiles.": {
+        "message": "反核弹飞弹 - 可拦截在途的核导弹."
+    }, 
+    "Are you sure you want to abandon this Galactic War?[br](All progress and Tech will be lost.)": {
+        "message": "你确定要放弃这场战争吗？[br](所有进度及科技将丢失.)"
+    }, 
+    "BUILD MODE": {
+        "message": "建造模式"
+    }, 
+    "Bot": {
+        "message": "机器人"
+    }, 
+    "Bounty Econ Multiplier": {
+        "message": "产能加成"
+    }, 
+    "Bounty kill rewarded. Econ multipliers enabled.": {
+        "message": "斩下猎物首级，奖励已到库中."
+    }, 
+    "Build Efficiency": {
+        "message": "建造效率"
+    }, 
+    "CONNECTION TO SERVER LOST": {
+        "message": "服务器连接已丢失"
+    }, 
+    "CONTINUOUS": {
+        "message": "循环"
+    }, 
+    "Cancel": {
+        "message": "取消"
+    }, 
+    "Cancel Fire": {
+        "message": "取消开火"
+    }, 
+    "Cancel Move": {
+        "message": "取消移动"
+    }, 
+    "Capture main view": {
+        "message": "截取主画面"
+    }, 
+    "Change orbit": {
+        "message": "变轨"
+    }, 
+    "Chrono Cam": {
+        "message": "查看回放"
+    }, 
+    "Chrono Cam Replay": {
+        "message": "查看回放"
+    }, 
+    "Close": {
+        "message": "关闭"
+    }, 
+    "Commander": {
+        "message": "指挥官"
+    }, 
+    "Continue Tutorial": {
+        "message": "继续教程"
+    }, 
+    "Continue War": {
+        "message": "继续战争"
+    }, 
+    "Count": {
+        "message": "总计"
+    }, 
+    "DMG": {
+        "message": "伤害"
+    }, 
+    "DMG:": {
+        "message": "伤害:"
+    }, 
+    "DPS:": {
+        "message": "DPS:"
+    }, 
+    "DRAW": {
+        "message": "消耗"
+    }, 
+    "Destroy selected units?": {
+        "message": "是否摧毁所选单位？"
+    }, 
+    "ECONOMY": {
+        "message": "产能"
+    }, 
+    "ENERGY ORDERS": {
+        "message": "能量指令"
+    }, 
+    "Efficiency": {
+        "message": "效率"
+    }, 
+    "Enemy Contact!": {
+        "message": "发现敌人！"
+    }, 
+    "Energy": {
+        "message": "能量"
+    }, 
+    "Energy Efficiency": {
+        "message": "能量效率"
+    }, 
+    "Energy Expended": {
+        "message": "能量消耗"
+    }, 
+    "Energy Produced": {
+        "message": "能量产出"
+    }, 
+    "Energy Storage": {
+        "message": "能量存储"
+    }, 
+    "Exit Game?": {
+        "message": "是否逃离战场？"
+    }, 
+    "FABRICATING": {
+        "message": "正在建造"
+    }, 
+    "FIRE ORDERS": {
+        "message": "开火指令"
+    }, 
+    "Fabber": {
+        "message": "工程单位"
+    }, 
+    "Factory": {
+        "message": "工厂"
+    }, 
+    "Fire Weapon": {
+        "message": "开火"
+    }, 
+    "Follow alerts": {
+        "message": "查看事件"
+    }, 
+    "GAME PAUSED": {
+        "message": "游戏已暂停"
+    }, 
+    "Game Menu": {
+        "message": "游戏菜单"
+    }, 
+    "Game Ready": {
+        "message": "游戏就绪"
+    }, 
+    "Game Settings": {
+        "message": "游戏设置"
+    }, 
+    "Game has been paused. You will receive a victory if your opponent does not reconnect within 180 seconds.": {
+        "message": "游戏已被暂停. 若你的对手在180秒内没有重新连接, 你将赢得胜利."
+    }, 
+    "Game starts in": {
+        "message": "距离投入战场还有"
+    }, 
+    "HEALTH": {
+        "message": "生命值"
+    }, 
+    "HOLD": {
+        "message": "停火"
+    }, 
+    "HOLD POSITION": {
+        "message": "坚守阵地"
+    }, 
+    "Halleys active on __planet_name__! Click here to annihilate!": {
+        "message": "位于 __planet_name__ 星球的星球级增量引擎已完成行星变轨准备。点此选择攻击目标"
+    }, 
+    "Hold the mouse wheel down and drag to pan.": {
+        "message": "按住鼠标滚轮并拖拽来移动视角."
+    }, 
+    "Ignore": {
+        "message": "忽略"
+    }, 
+    "LOAD": {
+        "message": "装载"
+    }, 
+    "LR-96 -Pacifier- Missile": {
+        "message": "”和平制造者“ 型核导弹"
+    }, 
+    "MANEUVER": {
+        "message": "移动"
+    }, 
+    "MOVE": {
+        "message": "移动"
+    }, 
+    "MOVE ORDERS": {
+        "message": "移动指令"
+    }, 
+    "Metal": {
+        "message": "金属"
+    }, 
+    "Metal Efficiency": {
+        "message": "金属效率"
+    }, 
+    "Metal Expended": {
+        "message": "金属消耗"
+    }, 
+    "Metal Produced": {
+        "message": "金属产出"
+    }, 
+    "Metal Storage": {
+        "message": "金属存储"
+    }, 
+    "Mobile": {
+        "message": "机动"
+    }, 
+    "NORMAL": {
+        "message": "普通"
+    }, 
+    "Names can only include letters [a-Z] and numbers [0-9].": {
+        "message": "名字只可包含字母 [a-Z] 及数字 [0-9]."
+    }, 
+    "Naval": {
+        "message": "海军"
+    }, 
+    "Net Energy Income": {
+        "message": "能量净产出"
+    }, 
+    "Net Metal Income": {
+        "message": "金属净产出"
+    }, 
+    "Next": {
+        "message": "下一条"
+    }, 
+    "Not enough energy": {
+        "message": "能量不足"
+    }, 
+    "Not enough metal": {
+        "message": "金属不足"
+    }, 
+    "Not enough metal or energy": {
+        "message": "金属或能量不足"
+    }, 
+    "Nuclear missile - Long range, large area damage, projectile.": {
+        "message": "核弹 - 长程, 大范围伤害武器."
+    }, 
+    "OFF": {
+        "message": "关"
+    }, 
+    "ON": {
+        "message": "开"
+    }, 
+    "Opponent disconnected": {
+        "message": "对手已断开连接"
+    }, 
+    "Orbital": {
+        "message": "轨道"
+    }, 
+    "PATROL": {
+        "message": "巡逻"
+    }, 
+    "PLAYER": {
+        "message": "玩家"
+    }, 
+    "PROD": {
+        "message": "产出"
+    }, 
+    "Pause Game": {
+        "message": "暂停游戏"
+    }, 
+    "Pick a location inside one of the green zones to spawn your Commander.": {
+        "message": "在绿色区域中选择一点以让指挥官着陆."
+    }, 
+    "Pin to opposite side": {
+        "message": "放置到屏幕另一侧"
+    }, 
+    "Ping": {
+        "message": "信标"
+    }, 
+    "Ping!": {
+        "message": "信标！"
+    }, 
+    "Play From Here": {
+        "message": "从这里继续征途"
+    }, 
+    "Player Guide": {
+        "message": "玩家指南"
+    }, 
+    "Position targeted. Click to confirm.": {
+        "message": "目标已被锁定。左击以确认."
+    }, 
+    "Prev": {
+        "message": "上一条"
+    }, 
+    "Quit": {
+        "message": "退出"
+    }, 
+    "Quit Game": {
+        "message": "退出游戏"
+    }, 
+    "Quit to Main Menu": {
+        "message": "返回至主菜单"
+    }, 
+    "READY": {
+        "message": "就绪"
+    }, 
+    "RECLAIM": {
+        "message": "回收"
+    }, 
+    "RECLAIMING": {
+        "message": "正在回收"
+    }, 
+    "REPAIR": {
+        "message": "维修"
+    }, 
+    "RESC": {
+        "message": "RESC A"
+    }, 
+    "RETURN FIRE": {
+        "message": "反击"
+    }, 
+    "ROAM": {
+        "message": "漫游"
+    }, 
+    "Request pending": {
+        "message": "请求等待处理中"
+    }, 
+    "Resume": {
+        "message": "继续"
+    }, 
+    "Resume Game": {
+        "message": "继续游戏"
+    }, 
+    "Resume from here?": {
+        "message": "从这里继续吗？"
+    }, 
+    "Return to Galactic War": {
+        "message": "返回至银河战争"
+    }, 
+    "Returning to Main Menu": {
+        "message": "正在返回主菜单"
+    }, 
+    "Rewinding Time": {
+        "message": "时光正在倒流...."
+    }, 
+    "SELECTING": {
+        "message": "正在选择..."
+    }, 
+    "SHARED ENERGY:": {
+        "message": "共享能量: "
+    }, 
+    "SHARED METAL:": {
+        "message": "共享金属: "
+    }, 
+    "SPECIAL-MOVE": {
+        "message": "特殊移动"
+    }, 
+    "SR-24 -Shield- Missile Defense": {
+        "message": "反核弹飞弹"
+    }, 
+    "START ANNIHILATION": {
+        "message": "死神天降！"
+    }, 
+    "STOP": {
+        "message": "停止"
+    }, 
+    "STORAGE": {
+        "message": "存储"
+    }, 
+    "Save": {
+        "message": "保存"
+    }, 
+    "Save Game": {
+        "message": "保存游戏"
+    }, 
+    "Save complete": {
+        "message": "成功保存"
+    }, 
+    "Save game?": {
+        "message": "保存游戏吗？"
+    }, 
+    "Saving game": {
+        "message": "正在保存游戏"
+    }, 
+    "Scroll mouse wheel to zoom in and out.": {
+        "message": "滚动鼠标滚轮以缩放视角."
+    }, 
+    "Second Camera PIP": {
+        "message": "第二视角画中画"
+    }, 
+    "Select a new gravity well.": {
+        "message": "选择一个新的重力井."
+    }, 
+    "Select a planet to attack.": {
+        "message": "选择一个行星作为目标."
+    }, 
+    "Select a planet to destroy.": {
+        "message": "选择一个行星作为毁灭目标."
+    }, 
+    "Select all advanced units in view": {
+        "message": "选择视野中所有的高级单位"
+    }, 
+    "Select all air units in view": {
+        "message": "选择视野中所有的空军单位"
+    }, 
+    "Select all bot units in view": {
+        "message": "选择视野中所有的机器人单位"
+    }, 
+    "Select all fabber units in view": {
+        "message": "选择视野中所有的工程单位"
+    }, 
+    "Select all naval units in view": {
+        "message": "选择视野中所有的海军单位"
+    }, 
+    "Select all orbital units in view": {
+        "message": "选择视野中所有的轨道单位"
+    }, 
+    "Select all vehicle units in view": {
+        "message": "选择视野中所有的战车单位"
+    }, 
+    "Send to Annihilate": {
+        "message": "撞击星球"
+    }, 
+    "Set course for annihilation": {
+        "message": "选择变轨目标"
+    }, 
+    "Set target spot": {
+        "message": "选择目标地点"
+    }, 
+    "Social Bar": {
+        "message": "社交栏"
+    }, 
+    "Surrender": {
+        "message": "投降"
+    }, 
+    "Surrender Game?": {
+        "message": "确定要投降吗？"
+    }, 
+    "Swap cameras": {
+        "message": "交换视角"
+    }, 
+    "TRANSPORT": {
+        "message": "运输"
+    }, 
+    "Then confirm destination to set course.": {
+        "message": "然后确定目标即可设置路线."
+    }, 
+    "This process can take a while.": {
+        "message": "这个过程可能要花上一点时间."
+    }, 
+    "UNLOAD": {
+        "message": "卸载"
+    }, 
+    "USE": {
+        "message": "使用"
+    }, 
+    "Unknown": {
+        "message": "未知"
+    }, 
+    "Vehicle": {
+        "message": "战车"
+    }, 
+    "WORLD SIMULATION WENT AWAY": {
+        "message": "星系坐标获取失败"
+    }, 
+    "Waiting for other players to select a spawn location.": {
+        "message": "等待其他玩家选择着陆点..."
+    }, 
+    "Yes": {
+        "message": "是的"
+    }, 
+    "__num_idle_fabbers__ Idle": {
+        "message": "__num_idle_fabbers__  正在待命"
+    }, 
+    "__num_idle_factories__ Idle": {
+        "message": "__num_idle_factories__  正在待命"
+    }, 
+    "__unit_name__ arrived.": {
+        "message": "__unit_name__  已到达."
+    }, 
+    "__unit_name__ destroyed.": {
+        "message": "__unit_name__  已被摧毁."
+    }, 
+    "__unit_name__ idle.": {
+        "message": "__unit_name__  正在待命."
+    }, 
+    "__unit_name__ launched!": {
+        "message": "__unit_name__  已发射！"
+    }, 
+    "__unit_name__ located.": {
+        "message": "已锁定敌军  __unit_name__."
+    }, 
+    "__unit_name__ lost.": {
+        "message": "__unit_name__  被摧毁."
+    }, 
+    "__unit_name__ ready.": {
+        "message": "__unit_name__  建造完毕."
+    }, 
+    "__unit_name__ under attack.": {
+        "message": "__unit_name__  正遭受攻击."
+    }, 
+    "__victim_name__ has been annihilated.": {
+        "message": "__victim_name__  已被歼灭."
+    }, 
+    "__victim_name__ was annihilated by __killer_name__.": {
+        "message": "__victim_name__  已被  __killer_name__ 歼灭."
+    }, 
+    "air": {
+        "message": "空军单位"
+    }, 
+    "ammo": {
+        "message": "弹药"
+    }, 
+    "army": {
+        "message": "军队"
+    }, 
+    "bot": {
+        "message": "机器人单位"
+    }, 
+    "combat": {
+        "message": "防御性建筑"
+    }, 
+    "factory": {
+        "message": "工厂类建筑"
+    }, 
+    "orbital": {
+        "message": "轨道单位"
+    }, 
+    "sea": {
+        "message": "海军单位"
+    }, 
+    "utility": {
+        "message": "功能性建筑"
+    }, 
+    "vehicle": {
+        "message": "战车单位"
+    }
+}
